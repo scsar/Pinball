@@ -1,0 +1,6904 @@
+fileFormatVersion: 2
+guid: 80ab59bd8d6293c4b94019ae7c4e7785
+timeCreated: 1716203842
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Apron
+    100002: Apron 1
+    100004: BackBox
+    100006: BallEject
+    100008: BallStopper
+    100010: Box001
+    100012: Box008
+    100014: Box018
+    100016: Box021
+    100018: Box022
+    100020: Box024
+    100022: Box026
+    100024: Box027
+    100026: Box028
+    100028: bulb
+    100030: bulb001
+    100032: bulb002
+    100034: bulb003
+    100036: bulb004
+    100038: bulb005
+    100040: bulb006
+    100042: bulb007
+    100044: bulb008
+    100046: bulb009
+    100048: bulb010
+    100050: bulb011
+    100052: bulb012
+    100054: bulb013
+    100056: bulb014
+    100058: bulb015
+    100060: bulb016
+    100062: bulb017
+    100064: bulb018
+    100066: bulb019
+    100068: bulb020
+    100070: bulb021
+    100072: bulb022
+    100074: bulb023
+    100076: bulb024
+    100078: bulb025
+    100080: Bulbs
+    100082: bulbs001
+    100084: bulbsleft
+    100086: bumperassembly
+    100088: bumperassembly001
+    100090: bumperassembly002
+    100092: BumperCap_LP003
+    100094: BumperCap_LP004
+    100096: BumperCap_LP005
+    100098: BumperCapScrews003
+    100100: BumperCapScrews004
+    100102: BumperCapScrews005
+    100104: ButterFlyDECAL
+    100106: ButterFlyPlastic
+    100108: Cabinet
+    100110: CabinetLeg001
+    100112: CabinetLeg003
+    100114: CabinetLeg004
+    100116: CabinetLeg005
+    100118: cabletie00
+    100120: Card002
+    100122: Card1
+    100124: Circle001
+    100126: CoconutPlasticGuard
+    100128: CoinDoorFrame
+    100130: CoinDoorLP
+    100132: Cylinder002
+    100134: Cylinder004
+    100136: Cylinder008
+    100138: Cylinder011
+    100140: Cylinder012
+    100142: Cylinder015
+    100144: Cylinder016
+    100146: Cylinder017
+    100148: Cylinder018
+    100150: Cylinder020
+    100152: Cylinder021
+    100154: Cylinder022
+    100156: Cylinder024
+    100158: Cylinder026
+    100160: Cylinder027
+    100162: Cylinder028
+    100164: Cylinder029
+    100166: Cylinder030
+    100168: Cylinder031
+    100170: Cylinder032
+    100172: Cylinder033
+    100174: Cylinder034
+    100176: Cylinder035
+    100178: dome4
+    100180: Flipper
+    100182: Flipper001
+    100184: FlipperPlastic
+    100186: FlipperPlastic001
+    100188: FlipperRubber
+    100190: FlipperRubber001
+    100192: //RootNode
+    100194: Guideline00
+    100196: Halfpost004
+    100198: Halfpost005
+    100200: halfpost006
+    100202: Halfpost2
+    100204: halfpost5
+    100206: Halfposts
+    100208: Hotpiedecal
+    100210: HotpiePlastic
+    100212: InsertArrow
+    100214: Kicker
+    100216: KickerSaucer
+    100218: Kona
+    100220: LiftRamp(plastic)
+    100222: Line003
+    100224: Line004
+    100226: Line005
+    100228: Line006
+    100230: Line008
+    100232: Line010
+    100234: Line011
+    100236: Line012
+    100238: Line035
+    100240: Line058
+    100242: Line059
+    100244: Line066
+    100246: Line067
+    100248: Line069
+    100250: Line075
+    100252: Line080
+    100254: Line081
+    100256: Line083
+    100258: Line084
+    100260: Line085
+    100262: Line086
+    100264: Line088
+    100266: Line108
+    100268: Line112
+    100270: Line113
+    100272: Line114
+    100274: Line116
+    100276: Line117
+    100278: Line118
+    100280: Line119
+    100282: Line120
+    100284: LockdownBar
+    100286: LockNut
+    100288: LockNut001
+    100290: LockNut003
+    100292: LockNut009_LP
+    100294: LockNut009_LP002
+    100296: LockNut009_LP003
+    100298: LockNut009_LP004
+    100300: LockNut009_LP005
+    100302: LockNut009_LP006
+    100304: LockNut009_LP007
+    100306: LockNut010
+    100308: LockNut011
+    100310: LockNut012
+    100312: LockNut013
+    100314: LockNut014
+    100316: LockNut015
+    100318: LockNut016
+    100320: Loft004
+    100322: Loft004_MeshPart0
+    100324: Loft004_MeshPart1
+    100326: Loft004_MeshPart2
+    100328: Loft006
+    100330: Loft009
+    100332: LoveyPlastic
+    100334: LSlingPlastic
+    100336: MechArm001
+    100338: MetalWalls
+    100340: newPF001
+    100342: NewRampStart002
+    100344: Object
+    100346: Object010
+    100348: Object016
+    100350: Object018
+    100352: Object019
+    100354: Object020
+    100356: Object021
+    100358: Object022
+    100360: Object023
+    100362: Object024
+    100364: Object025
+    100366: PalmTreeDecal
+    100368: PalmTreeDecal001
+    100370: PalmTreePlastic001
+    100372: PalmTreePlastic002
+    100374: PalmTreePlastic003
+    100376: Peg
+    100378: Peg002
+    100380: Peg003
+    100382: Peg004
+    100384: Peg005
+    100386: Peg006
+    100388: Peg007
+    100390: Peg008
+    100392: Peg009
+    100394: Peg010
+    100396: Peg011
+    100398: Peg012
+    100400: Peg013
+    100402: Peg014
+    100404: Peg015
+    100406: Peg016
+    100408: Peg017
+    100410: Peg018
+    100412: Peg019
+    100414: Peg020
+    100416: Peg021
+    100418: Peg022
+    100420: peg12
+    100422: Pinball002
+    100424: Plane002
+    100426: Plane004
+    100428: Plane006
+    100430: Plane008
+    100432: Plane009
+    100434: Plane011
+    100436: Plane012
+    100438: Plane020
+    100440: Plane021
+    100442: Plane022
+    100444: Plane024
+    100446: Plane025
+    100448: Plane026
+    100450: Plane029
+    100452: Plane030
+    100454: Plane031
+    100456: Plane033
+    100458: Plane037
+    100460: Plane040
+    100462: PlasticCorner
+    100464: PlayField
+    100466: PlungerCover
+    100468: PlungerRamp3
+    100470: PostGUIDE
+    100472: PostMetalset
+    100474: PostVP
+    100476: PostVP001
+    100478: PostVP002
+    100480: PostVP003
+    100482: PostVP004
+    100484: PostVP005
+    100486: ProfessorDecal
+    100488: ProfessorPlastic
+    100490: RampGate
+    100492: RedTarget
+    100494: RedTarget001
+    100496: RedTarget002
+    100498: RMPlasticCover
+    100500: RSlingPlastic
+    100502: RTPlasticCover
+    100504: Rubberwhite
+    100506: Rubberwhite001
+    100508: Rubberwhite002
+    100510: Rubberwhite03
+    100512: Rubberwhite04
+    100514: rubberwhite22
+    100516: Screw_HP034
+    100518: Screw_HP035
+    100520: Screw_HP036
+    100522: Screw_HP037
+    100524: ScrewLP001
+    100526: ScrewLP003
+    100528: ScrewLP004
+    100530: ScrewLP005
+    100532: ScrewLP006
+    100534: ScrewLP007
+    100536: ScrewLP008
+    100538: ScrewLP009
+    100540: ScrewLP010
+    100542: ScrewLP011
+    100544: ScrewLP012
+    100546: ScrewLP013
+    100548: ScrewLP014
+    100550: ScrewLP015
+    100552: ScrewLP016
+    100554: ScrewLP017
+    100556: ScrewLP018
+    100558: ScrewLP019
+    100560: ScrewLP020
+    100562: ScrewLP021
+    100564: ScrewLP022
+    100566: ScrewLP023
+    100568: ScrewLP024
+    100570: ScrewLP025
+    100572: ScrewLP026
+    100574: ScrewLP027
+    100576: ScrewLP028
+    100578: ScrewLP029
+    100580: ScrewLP030
+    100582: ScrewLP031
+    100584: ScrewLP032
+    100586: ScrewLP033
+    100588: ScrewLP034
+    100590: ScrewLP035
+    100592: ScrewLP036
+    100594: ScrewLP037
+    100596: ScrewLP038
+    100598: ScrewShaft006
+    100600: ScrewShafts003
+    100602: Shooter
+    100604: ShooterHousing
+    100606: skinnytarget
+    100608: SlingRubbers
+    100610: Sphere046
+    100612: Switch_positioned
+    100614: Switch_positioned001
+    100616: Switch_positioned002
+    100618: SwitchWIRE001
+    100620: SwitchWIRE003
+    100622: target
+    100624: target001
+    100626: target002
+    100628: target003
+    100630: target004
+    100632: target005
+    100634: target006
+    100636: target007
+    100638: target008
+    100640: TargetParts
+    100642: TargetParts001
+    100644: TargetParts002
+    100646: TargetParts003
+    100648: TargetParts004
+    100650: TargetParts005
+    100652: TargetParts006
+    100654: TargetParts007
+    100656: TargetParts008
+    100658: TargetParts009
+    100660: TopDecals
+    100662: TurnTable(JungleRun)
+    100664: Washer
+    100666: Washer001
+    100668: Washer005
+    100670: Washer006
+    100672: Washer007
+    100674: Washer008
+    100676: Washer009
+    100678: Washer010
+    100680: Washer011
+    100682: Washer012
+    100684: Washer013
+    100686: Washer016
+    100688: WireForm_template003
+    100690: WireGuide
+    100692: Wiring002
+    100694: Wiring003
+    100696: Woodsiding
+    100698: woodwalls
+    400000: Apron
+    400002: Apron 1
+    400004: BackBox
+    400006: BallEject
+    400008: BallStopper
+    400010: Box001
+    400012: Box008
+    400014: Box018
+    400016: Box021
+    400018: Box022
+    400020: Box024
+    400022: Box026
+    400024: Box027
+    400026: Box028
+    400028: bulb
+    400030: bulb001
+    400032: bulb002
+    400034: bulb003
+    400036: bulb004
+    400038: bulb005
+    400040: bulb006
+    400042: bulb007
+    400044: bulb008
+    400046: bulb009
+    400048: bulb010
+    400050: bulb011
+    400052: bulb012
+    400054: bulb013
+    400056: bulb014
+    400058: bulb015
+    400060: bulb016
+    400062: bulb017
+    400064: bulb018
+    400066: bulb019
+    400068: bulb020
+    400070: bulb021
+    400072: bulb022
+    400074: bulb023
+    400076: bulb024
+    400078: bulb025
+    400080: Bulbs
+    400082: bulbs001
+    400084: bulbsleft
+    400086: bumperassembly
+    400088: bumperassembly001
+    400090: bumperassembly002
+    400092: BumperCap_LP003
+    400094: BumperCap_LP004
+    400096: BumperCap_LP005
+    400098: BumperCapScrews003
+    400100: BumperCapScrews004
+    400102: BumperCapScrews005
+    400104: ButterFlyDECAL
+    400106: ButterFlyPlastic
+    400108: Cabinet
+    400110: CabinetLeg001
+    400112: CabinetLeg003
+    400114: CabinetLeg004
+    400116: CabinetLeg005
+    400118: cabletie00
+    400120: Card002
+    400122: Card1
+    400124: Circle001
+    400126: CoconutPlasticGuard
+    400128: CoinDoorFrame
+    400130: CoinDoorLP
+    400132: Cylinder002
+    400134: Cylinder004
+    400136: Cylinder008
+    400138: Cylinder011
+    400140: Cylinder012
+    400142: Cylinder015
+    400144: Cylinder016
+    400146: Cylinder017
+    400148: Cylinder018
+    400150: Cylinder020
+    400152: Cylinder021
+    400154: Cylinder022
+    400156: Cylinder024
+    400158: Cylinder026
+    400160: Cylinder027
+    400162: Cylinder028
+    400164: Cylinder029
+    400166: Cylinder030
+    400168: Cylinder031
+    400170: Cylinder032
+    400172: Cylinder033
+    400174: Cylinder034
+    400176: Cylinder035
+    400178: dome4
+    400180: Flipper
+    400182: Flipper001
+    400184: FlipperPlastic
+    400186: FlipperPlastic001
+    400188: FlipperRubber
+    400190: FlipperRubber001
+    400192: //RootNode
+    400194: Guideline00
+    400196: Halfpost004
+    400198: Halfpost005
+    400200: halfpost006
+    400202: Halfpost2
+    400204: halfpost5
+    400206: Halfposts
+    400208: Hotpiedecal
+    400210: HotpiePlastic
+    400212: InsertArrow
+    400214: Kicker
+    400216: KickerSaucer
+    400218: Kona
+    400220: LiftRamp(plastic)
+    400222: Line003
+    400224: Line004
+    400226: Line005
+    400228: Line006
+    400230: Line008
+    400232: Line010
+    400234: Line011
+    400236: Line012
+    400238: Line035
+    400240: Line058
+    400242: Line059
+    400244: Line066
+    400246: Line067
+    400248: Line069
+    400250: Line075
+    400252: Line080
+    400254: Line081
+    400256: Line083
+    400258: Line084
+    400260: Line085
+    400262: Line086
+    400264: Line088
+    400266: Line108
+    400268: Line112
+    400270: Line113
+    400272: Line114
+    400274: Line116
+    400276: Line117
+    400278: Line118
+    400280: Line119
+    400282: Line120
+    400284: LockdownBar
+    400286: LockNut
+    400288: LockNut001
+    400290: LockNut003
+    400292: LockNut009_LP
+    400294: LockNut009_LP002
+    400296: LockNut009_LP003
+    400298: LockNut009_LP004
+    400300: LockNut009_LP005
+    400302: LockNut009_LP006
+    400304: LockNut009_LP007
+    400306: LockNut010
+    400308: LockNut011
+    400310: LockNut012
+    400312: LockNut013
+    400314: LockNut014
+    400316: LockNut015
+    400318: LockNut016
+    400320: Loft004
+    400322: Loft004_MeshPart0
+    400324: Loft004_MeshPart1
+    400326: Loft004_MeshPart2
+    400328: Loft006
+    400330: Loft009
+    400332: LoveyPlastic
+    400334: LSlingPlastic
+    400336: MechArm001
+    400338: MetalWalls
+    400340: newPF001
+    400342: NewRampStart002
+    400344: Object
+    400346: Object010
+    400348: Object016
+    400350: Object018
+    400352: Object019
+    400354: Object020
+    400356: Object021
+    400358: Object022
+    400360: Object023
+    400362: Object024
+    400364: Object025
+    400366: PalmTreeDecal
+    400368: PalmTreeDecal001
+    400370: PalmTreePlastic001
+    400372: PalmTreePlastic002
+    400374: PalmTreePlastic003
+    400376: Peg
+    400378: Peg002
+    400380: Peg003
+    400382: Peg004
+    400384: Peg005
+    400386: Peg006
+    400388: Peg007
+    400390: Peg008
+    400392: Peg009
+    400394: Peg010
+    400396: Peg011
+    400398: Peg012
+    400400: Peg013
+    400402: Peg014
+    400404: Peg015
+    400406: Peg016
+    400408: Peg017
+    400410: Peg018
+    400412: Peg019
+    400414: Peg020
+    400416: Peg021
+    400418: Peg022
+    400420: peg12
+    400422: Pinball002
+    400424: Plane002
+    400426: Plane004
+    400428: Plane006
+    400430: Plane008
+    400432: Plane009
+    400434: Plane011
+    400436: Plane012
+    400438: Plane020
+    400440: Plane021
+    400442: Plane022
+    400444: Plane024
+    400446: Plane025
+    400448: Plane026
+    400450: Plane029
+    400452: Plane030
+    400454: Plane031
+    400456: Plane033
+    400458: Plane037
+    400460: Plane040
+    400462: PlasticCorner
+    400464: PlayField
+    400466: PlungerCover
+    400468: PlungerRamp3
+    400470: PostGUIDE
+    400472: PostMetalset
+    400474: PostVP
+    400476: PostVP001
+    400478: PostVP002
+    400480: PostVP003
+    400482: PostVP004
+    400484: PostVP005
+    400486: ProfessorDecal
+    400488: ProfessorPlastic
+    400490: RampGate
+    400492: RedTarget
+    400494: RedTarget001
+    400496: RedTarget002
+    400498: RMPlasticCover
+    400500: RSlingPlastic
+    400502: RTPlasticCover
+    400504: Rubberwhite
+    400506: Rubberwhite001
+    400508: Rubberwhite002
+    400510: Rubberwhite03
+    400512: Rubberwhite04
+    400514: rubberwhite22
+    400516: Screw_HP034
+    400518: Screw_HP035
+    400520: Screw_HP036
+    400522: Screw_HP037
+    400524: ScrewLP001
+    400526: ScrewLP003
+    400528: ScrewLP004
+    400530: ScrewLP005
+    400532: ScrewLP006
+    400534: ScrewLP007
+    400536: ScrewLP008
+    400538: ScrewLP009
+    400540: ScrewLP010
+    400542: ScrewLP011
+    400544: ScrewLP012
+    400546: ScrewLP013
+    400548: ScrewLP014
+    400550: ScrewLP015
+    400552: ScrewLP016
+    400554: ScrewLP017
+    400556: ScrewLP018
+    400558: ScrewLP019
+    400560: ScrewLP020
+    400562: ScrewLP021
+    400564: ScrewLP022
+    400566: ScrewLP023
+    400568: ScrewLP024
+    400570: ScrewLP025
+    400572: ScrewLP026
+    400574: ScrewLP027
+    400576: ScrewLP028
+    400578: ScrewLP029
+    400580: ScrewLP030
+    400582: ScrewLP031
+    400584: ScrewLP032
+    400586: ScrewLP033
+    400588: ScrewLP034
+    400590: ScrewLP035
+    400592: ScrewLP036
+    400594: ScrewLP037
+    400596: ScrewLP038
+    400598: ScrewShaft006
+    400600: ScrewShafts003
+    400602: Shooter
+    400604: ShooterHousing
+    400606: skinnytarget
+    400608: SlingRubbers
+    400610: Sphere046
+    400612: Switch_positioned
+    400614: Switch_positioned001
+    400616: Switch_positioned002
+    400618: SwitchWIRE001
+    400620: SwitchWIRE003
+    400622: target
+    400624: target001
+    400626: target002
+    400628: target003
+    400630: target004
+    400632: target005
+    400634: target006
+    400636: target007
+    400638: target008
+    400640: TargetParts
+    400642: TargetParts001
+    400644: TargetParts002
+    400646: TargetParts003
+    400648: TargetParts004
+    400650: TargetParts005
+    400652: TargetParts006
+    400654: TargetParts007
+    400656: TargetParts008
+    400658: TargetParts009
+    400660: TopDecals
+    400662: TurnTable(JungleRun)
+    400664: Washer
+    400666: Washer001
+    400668: Washer005
+    400670: Washer006
+    400672: Washer007
+    400674: Washer008
+    400676: Washer009
+    400678: Washer010
+    400680: Washer011
+    400682: Washer012
+    400684: Washer013
+    400686: Washer016
+    400688: WireForm_template003
+    400690: WireGuide
+    400692: Wiring002
+    400694: Wiring003
+    400696: Woodsiding
+    400698: woodwalls
+    2300000: Apron 1
+    2300002: BackBox
+    2300004: BallEject
+    2300006: BallStopper
+    2300008: Box001
+    2300010: Box008
+    2300012: Box018
+    2300014: Box021
+    2300016: Box022
+    2300018: Box024
+    2300020: Box026
+    2300022: Box027
+    2300024: Box028
+    2300026: bulb
+    2300028: bulb001
+    2300030: bulb002
+    2300032: bulb003
+    2300034: bulb004
+    2300036: bulb005
+    2300038: bulb006
+    2300040: bulb007
+    2300042: bulb008
+    2300044: bulb009
+    2300046: bulb010
+    2300048: bulb011
+    2300050: bulb012
+    2300052: bulb013
+    2300054: bulb014
+    2300056: bulb015
+    2300058: bulb016
+    2300060: bulb017
+    2300062: bulb018
+    2300064: bulb019
+    2300066: bulb020
+    2300068: bulb021
+    2300070: bulb022
+    2300072: bulb023
+    2300074: bulb024
+    2300076: bulb025
+    2300078: Bulbs
+    2300080: bulbs001
+    2300082: bulbsleft
+    2300084: bumperassembly
+    2300086: bumperassembly001
+    2300088: bumperassembly002
+    2300090: BumperCap_LP003
+    2300092: BumperCap_LP004
+    2300094: BumperCap_LP005
+    2300096: BumperCapScrews003
+    2300098: BumperCapScrews004
+    2300100: BumperCapScrews005
+    2300102: ButterFlyDECAL
+    2300104: ButterFlyPlastic
+    2300106: Cabinet
+    2300108: CabinetLeg001
+    2300110: CabinetLeg003
+    2300112: CabinetLeg004
+    2300114: CabinetLeg005
+    2300116: cabletie00
+    2300118: Card002
+    2300120: Card1
+    2300122: Circle001
+    2300124: CoconutPlasticGuard
+    2300126: CoinDoorFrame
+    2300128: CoinDoorLP
+    2300130: Cylinder002
+    2300132: Cylinder004
+    2300134: Cylinder008
+    2300136: Cylinder011
+    2300138: Cylinder012
+    2300140: Cylinder015
+    2300142: Cylinder016
+    2300144: Cylinder017
+    2300146: Cylinder018
+    2300148: Cylinder020
+    2300150: Cylinder021
+    2300152: Cylinder022
+    2300154: Cylinder024
+    2300156: Cylinder026
+    2300158: Cylinder027
+    2300160: Cylinder028
+    2300162: Cylinder029
+    2300164: Cylinder030
+    2300166: Cylinder031
+    2300168: Cylinder032
+    2300170: Cylinder033
+    2300172: Cylinder034
+    2300174: Cylinder035
+    2300176: dome4
+    2300178: Flipper
+    2300180: Flipper001
+    2300182: FlipperPlastic
+    2300184: FlipperPlastic001
+    2300186: FlipperRubber
+    2300188: FlipperRubber001
+    2300190: Halfpost004
+    2300192: Halfpost005
+    2300194: halfpost006
+    2300196: Halfpost2
+    2300198: halfpost5
+    2300200: Halfposts
+    2300202: HotpiePlastic
+    2300204: InsertArrow
+    2300206: Kicker
+    2300208: KickerSaucer
+    2300210: Kona
+    2300212: LiftRamp(plastic)
+    2300214: Line003
+    2300216: Line004
+    2300218: Line005
+    2300220: Line006
+    2300222: Line008
+    2300224: Line010
+    2300226: Line011
+    2300228: Line012
+    2300230: Line058
+    2300232: Line059
+    2300234: Line066
+    2300236: Line067
+    2300238: Line069
+    2300240: Line075
+    2300242: Line080
+    2300244: Line081
+    2300246: Line083
+    2300248: Line085
+    2300250: Line086
+    2300252: Line088
+    2300254: Line108
+    2300256: Line112
+    2300258: Line113
+    2300260: Line114
+    2300262: Line116
+    2300264: Line117
+    2300266: Line118
+    2300268: Line119
+    2300270: Line120
+    2300272: LockdownBar
+    2300274: LockNut
+    2300276: LockNut001
+    2300278: LockNut003
+    2300280: LockNut009_LP
+    2300282: LockNut009_LP002
+    2300284: LockNut009_LP003
+    2300286: LockNut009_LP004
+    2300288: LockNut009_LP005
+    2300290: LockNut009_LP006
+    2300292: LockNut009_LP007
+    2300294: LockNut010
+    2300296: LockNut011
+    2300298: LockNut012
+    2300300: LockNut013
+    2300302: LockNut014
+    2300304: LockNut015
+    2300306: LockNut016
+    2300308: Loft004_MeshPart0
+    2300310: Loft004_MeshPart1
+    2300312: Loft004_MeshPart2
+    2300314: Loft006
+    2300316: Loft009
+    2300318: LoveyPlastic
+    2300320: LSlingPlastic
+    2300322: MechArm001
+    2300324: MetalWalls
+    2300326: newPF001
+    2300328: NewRampStart002
+    2300330: Object
+    2300332: Object010
+    2300334: Object016
+    2300336: Object018
+    2300338: Object019
+    2300340: Object020
+    2300342: Object021
+    2300344: Object022
+    2300346: Object023
+    2300348: Object024
+    2300350: Object025
+    2300352: PalmTreeDecal
+    2300354: PalmTreeDecal001
+    2300356: PalmTreePlastic001
+    2300358: PalmTreePlastic002
+    2300360: PalmTreePlastic003
+    2300362: Peg
+    2300364: Peg002
+    2300366: Peg003
+    2300368: Peg004
+    2300370: Peg005
+    2300372: Peg006
+    2300374: Peg007
+    2300376: Peg008
+    2300378: Peg009
+    2300380: Peg010
+    2300382: Peg011
+    2300384: Peg012
+    2300386: Peg013
+    2300388: Peg014
+    2300390: Peg015
+    2300392: Peg016
+    2300394: Peg017
+    2300396: Peg018
+    2300398: Peg019
+    2300400: Peg020
+    2300402: Peg021
+    2300404: Peg022
+    2300406: peg12
+    2300408: Pinball002
+    2300410: Plane002
+    2300412: Plane004
+    2300414: Plane006
+    2300416: Plane008
+    2300418: Plane009
+    2300420: Plane011
+    2300422: Plane012
+    2300424: Plane020
+    2300426: Plane021
+    2300428: Plane022
+    2300430: Plane025
+    2300432: Plane026
+    2300434: Plane029
+    2300436: Plane030
+    2300438: Plane031
+    2300440: Plane033
+    2300442: Plane037
+    2300444: Plane040
+    2300446: PlasticCorner
+    2300448: PlayField
+    2300450: PlungerCover
+    2300452: PlungerRamp3
+    2300454: PostGUIDE
+    2300456: PostMetalset
+    2300458: PostVP
+    2300460: PostVP001
+    2300462: PostVP002
+    2300464: PostVP003
+    2300466: PostVP004
+    2300468: PostVP005
+    2300470: ProfessorDecal
+    2300472: ProfessorPlastic
+    2300474: RampGate
+    2300476: RedTarget
+    2300478: RedTarget001
+    2300480: RedTarget002
+    2300482: RMPlasticCover
+    2300484: RSlingPlastic
+    2300486: RTPlasticCover
+    2300488: Rubberwhite
+    2300490: Rubberwhite001
+    2300492: Rubberwhite002
+    2300494: Rubberwhite03
+    2300496: Rubberwhite04
+    2300498: rubberwhite22
+    2300500: Screw_HP034
+    2300502: Screw_HP035
+    2300504: Screw_HP036
+    2300506: Screw_HP037
+    2300508: ScrewLP001
+    2300510: ScrewLP003
+    2300512: ScrewLP004
+    2300514: ScrewLP005
+    2300516: ScrewLP006
+    2300518: ScrewLP007
+    2300520: ScrewLP008
+    2300522: ScrewLP009
+    2300524: ScrewLP010
+    2300526: ScrewLP011
+    2300528: ScrewLP012
+    2300530: ScrewLP013
+    2300532: ScrewLP014
+    2300534: ScrewLP015
+    2300536: ScrewLP016
+    2300538: ScrewLP017
+    2300540: ScrewLP018
+    2300542: ScrewLP019
+    2300544: ScrewLP020
+    2300546: ScrewLP021
+    2300548: ScrewLP022
+    2300550: ScrewLP023
+    2300552: ScrewLP024
+    2300554: ScrewLP025
+    2300556: ScrewLP026
+    2300558: ScrewLP027
+    2300560: ScrewLP028
+    2300562: ScrewLP029
+    2300564: ScrewLP030
+    2300566: ScrewLP031
+    2300568: ScrewLP032
+    2300570: ScrewLP033
+    2300572: ScrewLP034
+    2300574: ScrewLP035
+    2300576: ScrewLP036
+    2300578: ScrewLP037
+    2300580: ScrewLP038
+    2300582: ScrewShaft006
+    2300584: ScrewShafts003
+    2300586: Shooter
+    2300588: ShooterHousing
+    2300590: skinnytarget
+    2300592: SlingRubbers
+    2300594: Sphere046
+    2300596: Switch_positioned
+    2300598: Switch_positioned001
+    2300600: Switch_positioned002
+    2300602: SwitchWIRE001
+    2300604: SwitchWIRE003
+    2300606: target
+    2300608: target001
+    2300610: target002
+    2300612: target003
+    2300614: target004
+    2300616: target005
+    2300618: target006
+    2300620: target007
+    2300622: target008
+    2300624: TargetParts
+    2300626: TargetParts001
+    2300628: TargetParts002
+    2300630: TargetParts003
+    2300632: TargetParts004
+    2300634: TargetParts005
+    2300636: TargetParts006
+    2300638: TargetParts007
+    2300640: TargetParts008
+    2300642: TargetParts009
+    2300644: TopDecals
+    2300646: TurnTable(JungleRun)
+    2300648: Washer
+    2300650: Washer001
+    2300652: Washer005
+    2300654: Washer006
+    2300656: Washer007
+    2300658: Washer008
+    2300660: Washer009
+    2300662: Washer010
+    2300664: Washer011
+    2300666: Washer012
+    2300668: Washer013
+    2300670: Washer016
+    2300672: WireGuide
+    2300674: Wiring002
+    2300676: Wiring003
+    2300678: Woodsiding
+    2300680: woodwalls
+    3300000: Apron 1
+    3300002: BackBox
+    3300004: BallEject
+    3300006: BallStopper
+    3300008: Box001
+    3300010: Box008
+    3300012: Box018
+    3300014: Box021
+    3300016: Box022
+    3300018: Box024
+    3300020: Box026
+    3300022: Box027
+    3300024: Box028
+    3300026: bulb
+    3300028: bulb001
+    3300030: bulb002
+    3300032: bulb003
+    3300034: bulb004
+    3300036: bulb005
+    3300038: bulb006
+    3300040: bulb007
+    3300042: bulb008
+    3300044: bulb009
+    3300046: bulb010
+    3300048: bulb011
+    3300050: bulb012
+    3300052: bulb013
+    3300054: bulb014
+    3300056: bulb015
+    3300058: bulb016
+    3300060: bulb017
+    3300062: bulb018
+    3300064: bulb019
+    3300066: bulb020
+    3300068: bulb021
+    3300070: bulb022
+    3300072: bulb023
+    3300074: bulb024
+    3300076: bulb025
+    3300078: Bulbs
+    3300080: bulbs001
+    3300082: bulbsleft
+    3300084: bumperassembly
+    3300086: bumperassembly001
+    3300088: bumperassembly002
+    3300090: BumperCap_LP003
+    3300092: BumperCap_LP004
+    3300094: BumperCap_LP005
+    3300096: BumperCapScrews003
+    3300098: BumperCapScrews004
+    3300100: BumperCapScrews005
+    3300102: ButterFlyDECAL
+    3300104: ButterFlyPlastic
+    3300106: Cabinet
+    3300108: CabinetLeg001
+    3300110: CabinetLeg003
+    3300112: CabinetLeg004
+    3300114: CabinetLeg005
+    3300116: cabletie00
+    3300118: Card002
+    3300120: Card1
+    3300122: Circle001
+    3300124: CoconutPlasticGuard
+    3300126: CoinDoorFrame
+    3300128: CoinDoorLP
+    3300130: Cylinder002
+    3300132: Cylinder004
+    3300134: Cylinder008
+    3300136: Cylinder011
+    3300138: Cylinder012
+    3300140: Cylinder015
+    3300142: Cylinder016
+    3300144: Cylinder017
+    3300146: Cylinder018
+    3300148: Cylinder020
+    3300150: Cylinder021
+    3300152: Cylinder022
+    3300154: Cylinder024
+    3300156: Cylinder026
+    3300158: Cylinder027
+    3300160: Cylinder028
+    3300162: Cylinder029
+    3300164: Cylinder030
+    3300166: Cylinder031
+    3300168: Cylinder032
+    3300170: Cylinder033
+    3300172: Cylinder034
+    3300174: Cylinder035
+    3300176: dome4
+    3300178: Flipper
+    3300180: Flipper001
+    3300182: FlipperPlastic
+    3300184: FlipperPlastic001
+    3300186: FlipperRubber
+    3300188: FlipperRubber001
+    3300190: Halfpost004
+    3300192: Halfpost005
+    3300194: halfpost006
+    3300196: Halfpost2
+    3300198: halfpost5
+    3300200: Halfposts
+    3300202: HotpiePlastic
+    3300204: InsertArrow
+    3300206: Kicker
+    3300208: KickerSaucer
+    3300210: Kona
+    3300212: LiftRamp(plastic)
+    3300214: Line003
+    3300216: Line004
+    3300218: Line005
+    3300220: Line006
+    3300222: Line008
+    3300224: Line010
+    3300226: Line011
+    3300228: Line012
+    3300230: Line058
+    3300232: Line059
+    3300234: Line066
+    3300236: Line067
+    3300238: Line069
+    3300240: Line075
+    3300242: Line080
+    3300244: Line081
+    3300246: Line083
+    3300248: Line085
+    3300250: Line086
+    3300252: Line088
+    3300254: Line108
+    3300256: Line112
+    3300258: Line113
+    3300260: Line114
+    3300262: Line116
+    3300264: Line117
+    3300266: Line118
+    3300268: Line119
+    3300270: Line120
+    3300272: LockdownBar
+    3300274: LockNut
+    3300276: LockNut001
+    3300278: LockNut003
+    3300280: LockNut009_LP
+    3300282: LockNut009_LP002
+    3300284: LockNut009_LP003
+    3300286: LockNut009_LP004
+    3300288: LockNut009_LP005
+    3300290: LockNut009_LP006
+    3300292: LockNut009_LP007
+    3300294: LockNut010
+    3300296: LockNut011
+    3300298: LockNut012
+    3300300: LockNut013
+    3300302: LockNut014
+    3300304: LockNut015
+    3300306: LockNut016
+    3300308: Loft004_MeshPart0
+    3300310: Loft004_MeshPart1
+    3300312: Loft004_MeshPart2
+    3300314: Loft006
+    3300316: Loft009
+    3300318: LoveyPlastic
+    3300320: LSlingPlastic
+    3300322: MechArm001
+    3300324: MetalWalls
+    3300326: newPF001
+    3300328: NewRampStart002
+    3300330: Object
+    3300332: Object010
+    3300334: Object016
+    3300336: Object018
+    3300338: Object019
+    3300340: Object020
+    3300342: Object021
+    3300344: Object022
+    3300346: Object023
+    3300348: Object024
+    3300350: Object025
+    3300352: PalmTreeDecal
+    3300354: PalmTreeDecal001
+    3300356: PalmTreePlastic001
+    3300358: PalmTreePlastic002
+    3300360: PalmTreePlastic003
+    3300362: Peg
+    3300364: Peg002
+    3300366: Peg003
+    3300368: Peg004
+    3300370: Peg005
+    3300372: Peg006
+    3300374: Peg007
+    3300376: Peg008
+    3300378: Peg009
+    3300380: Peg010
+    3300382: Peg011
+    3300384: Peg012
+    3300386: Peg013
+    3300388: Peg014
+    3300390: Peg015
+    3300392: Peg016
+    3300394: Peg017
+    3300396: Peg018
+    3300398: Peg019
+    3300400: Peg020
+    3300402: Peg021
+    3300404: Peg022
+    3300406: peg12
+    3300408: Pinball002
+    3300410: Plane002
+    3300412: Plane004
+    3300414: Plane006
+    3300416: Plane008
+    3300418: Plane009
+    3300420: Plane011
+    3300422: Plane012
+    3300424: Plane020
+    3300426: Plane021
+    3300428: Plane022
+    3300430: Plane025
+    3300432: Plane026
+    3300434: Plane029
+    3300436: Plane030
+    3300438: Plane031
+    3300440: Plane033
+    3300442: Plane037
+    3300444: Plane040
+    3300446: PlasticCorner
+    3300448: PlayField
+    3300450: PlungerCover
+    3300452: PlungerRamp3
+    3300454: PostGUIDE
+    3300456: PostMetalset
+    3300458: PostVP
+    3300460: PostVP001
+    3300462: PostVP002
+    3300464: PostVP003
+    3300466: PostVP004
+    3300468: PostVP005
+    3300470: ProfessorDecal
+    3300472: ProfessorPlastic
+    3300474: RampGate
+    3300476: RedTarget
+    3300478: RedTarget001
+    3300480: RedTarget002
+    3300482: RMPlasticCover
+    3300484: RSlingPlastic
+    3300486: RTPlasticCover
+    3300488: Rubberwhite
+    3300490: Rubberwhite001
+    3300492: Rubberwhite002
+    3300494: Rubberwhite03
+    3300496: Rubberwhite04
+    3300498: rubberwhite22
+    3300500: Screw_HP034
+    3300502: Screw_HP035
+    3300504: Screw_HP036
+    3300506: Screw_HP037
+    3300508: ScrewLP001
+    3300510: ScrewLP003
+    3300512: ScrewLP004
+    3300514: ScrewLP005
+    3300516: ScrewLP006
+    3300518: ScrewLP007
+    3300520: ScrewLP008
+    3300522: ScrewLP009
+    3300524: ScrewLP010
+    3300526: ScrewLP011
+    3300528: ScrewLP012
+    3300530: ScrewLP013
+    3300532: ScrewLP014
+    3300534: ScrewLP015
+    3300536: ScrewLP016
+    3300538: ScrewLP017
+    3300540: ScrewLP018
+    3300542: ScrewLP019
+    3300544: ScrewLP020
+    3300546: ScrewLP021
+    3300548: ScrewLP022
+    3300550: ScrewLP023
+    3300552: ScrewLP024
+    3300554: ScrewLP025
+    3300556: ScrewLP026
+    3300558: ScrewLP027
+    3300560: ScrewLP028
+    3300562: ScrewLP029
+    3300564: ScrewLP030
+    3300566: ScrewLP031
+    3300568: ScrewLP032
+    3300570: ScrewLP033
+    3300572: ScrewLP034
+    3300574: ScrewLP035
+    3300576: ScrewLP036
+    3300578: ScrewLP037
+    3300580: ScrewLP038
+    3300582: ScrewShaft006
+    3300584: ScrewShafts003
+    3300586: Shooter
+    3300588: ShooterHousing
+    3300590: skinnytarget
+    3300592: SlingRubbers
+    3300594: Sphere046
+    3300596: Switch_positioned
+    3300598: Switch_positioned001
+    3300600: Switch_positioned002
+    3300602: SwitchWIRE001
+    3300604: SwitchWIRE003
+    3300606: target
+    3300608: target001
+    3300610: target002
+    3300612: target003
+    3300614: target004
+    3300616: target005
+    3300618: target006
+    3300620: target007
+    3300622: target008
+    3300624: TargetParts
+    3300626: TargetParts001
+    3300628: TargetParts002
+    3300630: TargetParts003
+    3300632: TargetParts004
+    3300634: TargetParts005
+    3300636: TargetParts006
+    3300638: TargetParts007
+    3300640: TargetParts008
+    3300642: TargetParts009
+    3300644: TopDecals
+    3300646: TurnTable(JungleRun)
+    3300648: Washer
+    3300650: Washer001
+    3300652: Washer005
+    3300654: Washer006
+    3300656: Washer007
+    3300658: Washer008
+    3300660: Washer009
+    3300662: Washer010
+    3300664: Washer011
+    3300666: Washer012
+    3300668: Washer013
+    3300670: Washer016
+    3300672: WireGuide
+    3300674: Wiring002
+    3300676: Wiring003
+    3300678: Woodsiding
+    3300680: woodwalls
+    4300000: Line012
+    4300002: Plane002
+    4300004: Line004
+    4300006: Plane004
+    4300008: LoveyPlastic
+    4300010: ButterFlyDECAL
+    4300012: ButterFlyPlastic
+    4300014: Plane006
+    4300016: Line008
+    4300018: HotpiePlastic
+    4300020: Plane008
+    4300022: Line006
+    4300024: Plane009
+    4300026: Line005
+    4300028: Halfpost2
+    4300030: RMPlasticCover
+    4300032: Plane012
+    4300034: Line011
+    4300036: PlasticCorner
+    4300038: Loft004_MeshPart0
+    4300040: Loft004_MeshPart1
+    4300042: Loft004_MeshPart2
+    4300044: RedTarget
+    4300046: RedTarget001
+    4300048: RedTarget002
+    4300050: Loft006
+    4300052: TurnTable(JungleRun)
+    4300054: TopDecals
+    4300056: Object010
+    4300058: PalmTreeDecal001
+    4300060: PalmTreeDecal
+    4300062: PalmTreePlastic002
+    4300064: PalmTreePlastic001
+    4300066: Cylinder002
+    4300068: ScrewShaft006
+    4300070: Object
+    4300072: Box008
+    4300074: LiftRamp(plastic)
+    4300076: Pinball002
+    4300078: Plane020
+    4300080: Line058
+    4300082: Plane021
+    4300084: Line059
+    4300086: Plane022
+    4300088: Line003
+    4300090: Cylinder004
+    4300092: Plane011
+    4300094: Line010
+    4300096: Wiring002
+    4300098: Wiring003
+    4300100: Plane031
+    4300102: ProfessorDecal
+    4300104: ProfessorPlastic
+    4300106: Kona
+    4300108: dome4
+    4300110: Line066
+    4300112: Plane025
+    4300114: FlipperPlastic
+    4300116: Plane026
+    4300118: FlipperPlastic001
+    4300120: CoconutPlasticGuard
+    4300122: Line067
+    4300124: BumperCap_LP003
+    4300126: BumperCapScrews003
+    4300128: BumperCapScrews004
+    4300130: BumperCapScrews005
+    4300132: BumperCap_LP004
+    4300134: BumperCap_LP005
+    4300136: Plane029
+    4300138: LSlingPlastic
+    4300140: Plane030
+    4300142: RSlingPlastic
+    4300144: NewRampStart002
+    4300146: Line069
+    4300148: PlayField
+    4300150: Apron
+    4300152: Cylinder008
+    4300154: Card1
+    4300156: Card002
+    4300158: MechArm001
+    4300160: KickerSaucer
+    4300162: Kicker
+    4300164: LockNut
+    4300166: LockNut001
+    4300168: Object016
+    4300170: Cylinder011
+    4300172: Cylinder012
+    4300174: Line075
+    4300176: Line080
+    4300178: Line081
+    4300180: PlungerCover
+    4300182: MetalWalls
+    4300184: WireGuide
+    4300186: Halfpost004
+    4300188: Halfpost005
+    4300190: RTPlasticCover
+    4300192: BallStopper
+    4300194: BallEject
+    4300196: Plane033
+    4300198: ScrewShafts003
+    4300200: Object018
+    4300202: Washer
+    4300204: Washer001
+    4300206: Washer005
+    4300208: Cylinder015
+    4300210: Washer006
+    4300212: Line083
+    4300214: Box018
+    4300216: PalmTreePlastic003
+    4300218: Cylinder016
+    4300220: Washer007
+    4300222: Cylinder017
+    4300224: Washer008
+    4300226: Cylinder018
+    4300228: Washer009
+    4300230: RampGate
+    4300232: Washer010
+    4300234: LockNut003
+    4300236: Cylinder020
+    4300238: PostGUIDE
+    4300240: Line085
+    4300242: Line086
+    4300244: Line088
+    4300246: Washer011
+    4300248: Washer012
+    4300250: Washer013
+    4300252: Loft009
+    4300254: Sphere046
+    4300256: Cabinet
+    4300258: CoinDoorFrame
+    4300260: LockdownBar
+    4300262: BackBox
+    4300264: Plane037
+    4300266: Plane040
+    4300268: Box021
+    4300270: Line108
+    4300272: bulb
+    4300274: Box022
+    4300276: bulb001
+    4300278: Line112
+    4300280: cabletie00
+    4300282: Switch_positioned
+    4300284: Switch_positioned001
+    4300286: Screw_HP034
+    4300288: Screw_HP035
+    4300290: Line113
+    4300292: SwitchWIRE001
+    4300294: Line114
+    4300296: SwitchWIRE003
+    4300298: Switch_positioned002
+    4300300: Screw_HP036
+    4300302: Screw_HP037
+    4300304: Line116
+    4300306: Peg
+    4300308: Peg002
+    4300310: Peg003
+    4300312: Peg004
+    4300314: Peg005
+    4300316: Peg006
+    4300318: Peg007
+    4300320: Peg008
+    4300322: Peg009
+    4300324: Peg010
+    4300326: Peg011
+    4300328: Peg012
+    4300330: Peg013
+    4300332: Peg014
+    4300334: Peg015
+    4300336: Peg016
+    4300338: Peg017
+    4300340: Peg018
+    4300342: halfpost5
+    4300344: halfpost006
+    4300346: Line117
+    4300348: Line118
+    4300350: TargetParts
+    4300352: Box001
+    4300354: TargetParts001
+    4300356: target
+    4300358: TargetParts002
+    4300360: target001
+    4300362: TargetParts003
+    4300364: target002
+    4300366: TargetParts004
+    4300368: target003
+    4300370: TargetParts005
+    4300372: target004
+    4300374: TargetParts006
+    4300376: target005
+    4300378: TargetParts007
+    4300380: target006
+    4300382: TargetParts008
+    4300384: target007
+    4300386: InsertArrow
+    4300388: Line119
+    4300390: Line120
+    4300392: PlungerRamp3
+    4300394: Shooter
+    4300396: ShooterHousing
+    4300398: CoinDoorLP
+    4300400: PostVP
+    4300402: PostVP001
+    4300404: PostVP002
+    4300406: PostVP003
+    4300408: SlingRubbers
+    4300410: Peg019
+    4300412: Peg020
+    4300414: Object019
+    4300416: skinnytarget
+    4300418: Cylinder026
+    4300420: Halfposts
+    4300422: Peg021
+    4300424: Peg022
+    4300426: Washer016
+    4300428: LockNut009_LP
+    4300430: LockNut010
+    4300432: LockNut011
+    4300434: LockNut012
+    4300436: LockNut013
+    4300438: LockNut014
+    4300440: LockNut015
+    4300442: LockNut016
+    4300444: Cylinder027
+    4300446: Rubberwhite
+    4300448: Cylinder028
+    4300450: Rubberwhite001
+    4300452: Cylinder029
+    4300454: Rubberwhite002
+    4300456: TargetParts009
+    4300458: target008
+    4300460: rubberwhite22
+    4300462: Bulbs
+    4300464: peg12
+    4300466: bulbsleft
+    4300468: PostVP004
+    4300470: PostVP005
+    4300472: bulbs001
+    4300474: Woodsiding
+    4300476: Object020
+    4300478: Object021
+    4300480: Object022
+    4300482: PostMetalset
+    4300484: FlipperRubber001
+    4300486: Flipper001
+    4300488: Object023
+    4300490: Object024
+    4300492: ScrewLP001
+    4300494: ScrewLP003
+    4300496: ScrewLP004
+    4300498: ScrewLP005
+    4300500: ScrewLP006
+    4300502: ScrewLP007
+    4300504: ScrewLP008
+    4300506: ScrewLP009
+    4300508: ScrewLP010
+    4300510: ScrewLP011
+    4300512: ScrewLP012
+    4300514: ScrewLP013
+    4300516: ScrewLP014
+    4300518: ScrewLP015
+    4300520: ScrewLP016
+    4300522: ScrewLP017
+    4300524: ScrewLP018
+    4300526: ScrewLP019
+    4300528: ScrewLP020
+    4300530: ScrewLP021
+    4300532: ScrewLP022
+    4300534: ScrewLP023
+    4300536: ScrewLP024
+    4300538: ScrewLP025
+    4300540: ScrewLP026
+    4300542: ScrewLP027
+    4300544: ScrewLP028
+    4300546: ScrewLP029
+    4300548: ScrewLP030
+    4300550: LockNut009_LP002
+    4300552: Cylinder024
+    4300554: Cylinder022
+    4300556: LockNut009_LP003
+    4300558: LockNut009_LP004
+    4300560: LockNut009_LP005
+    4300562: Cylinder021
+    4300564: LockNut009_LP006
+    4300566: LockNut009_LP007
+    4300568: ScrewLP031
+    4300570: ScrewLP032
+    4300572: ScrewLP033
+    4300574: bumperassembly
+    4300576: bumperassembly001
+    4300578: bumperassembly002
+    4300580: CabinetLeg001
+    4300582: Box024
+    4300584: CabinetLeg003
+    4300586: Box026
+    4300588: CabinetLeg004
+    4300590: Box027
+    4300592: CabinetLeg005
+    4300594: Box028
+    4300596: Cylinder030
+    4300598: Cylinder031
+    4300600: Cylinder032
+    4300602: Cylinder033
+    4300604: Flipper
+    4300606: FlipperRubber
+    4300608: newPF001
+    4300610: Object025
+    4300612: Cylinder034
+    4300614: Cylinder035
+    4300616: woodwalls
+    4300618: bulb002
+    4300620: bulb003
+    4300622: bulb004
+    4300624: bulb005
+    4300626: bulb006
+    4300628: bulb007
+    4300630: bulb008
+    4300632: bulb009
+    4300634: bulb010
+    4300636: bulb011
+    4300638: bulb012
+    4300640: bulb013
+    4300642: bulb014
+    4300644: bulb015
+    4300646: bulb016
+    4300648: bulb017
+    4300650: bulb018
+    4300652: bulb019
+    4300654: bulb020
+    4300656: bulb021
+    4300658: bulb022
+    4300660: bulb023
+    4300662: bulb024
+    4300664: bulb025
+    4300666: ScrewLP034
+    4300668: ScrewLP035
+    4300670: ScrewLP036
+    4300672: ScrewLP037
+    4300674: ScrewLP038
+    4300676: Rubberwhite03
+    4300678: Rubberwhite04
+    4300680: Circle001
+    7400000: Take 001
+    7400002: ShootBall
+    7400004: ShootPadRight
+    7400006: RoundPaddleDown
+    7400008: TurnAble
+    7400010: RoundPaddleUpStay
+    7400012: ShootPadLeft
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Apron
+        weight: 1
+      - path: Apron 1
+        weight: 1
+      - path: Apron 1/Card1
+        weight: 1
+      - path: Apron 1/Card002
+        weight: 1
+      - path: Apron 1/Cylinder008
+        weight: 1
+      - path: BallEject
+        weight: 1
+      - path: BallStopper
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: bulb
+        weight: 1
+      - path: bulb001
+        weight: 1
+      - path: bulb002
+        weight: 1
+      - path: bulb003
+        weight: 1
+      - path: bulb004
+        weight: 1
+      - path: bulb005
+        weight: 1
+      - path: bulb006
+        weight: 1
+      - path: bulb007
+        weight: 1
+      - path: bulb008
+        weight: 1
+      - path: bulb009
+        weight: 1
+      - path: bulb010
+        weight: 1
+      - path: bulb011
+        weight: 1
+      - path: bulb012
+        weight: 1
+      - path: bulb013
+        weight: 1
+      - path: bulb014
+        weight: 1
+      - path: bulb015
+        weight: 1
+      - path: bulb016
+        weight: 1
+      - path: bulb017
+        weight: 1
+      - path: bulb018
+        weight: 1
+      - path: bulb019
+        weight: 1
+      - path: bulb020
+        weight: 1
+      - path: bulb021
+        weight: 1
+      - path: bulb022
+        weight: 1
+      - path: bulb023
+        weight: 1
+      - path: bulb024
+        weight: 1
+      - path: bulb025
+        weight: 1
+      - path: Bulbs
+        weight: 1
+      - path: bulbs001
+        weight: 1
+      - path: bulbsleft
+        weight: 1
+      - path: bumperassembly
+        weight: 1
+      - path: bumperassembly001
+        weight: 1
+      - path: bumperassembly002
+        weight: 1
+      - path: BumperCap_LP003
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews003
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews004
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews005
+        weight: 1
+      - path: BumperCap_LP004
+        weight: 1
+      - path: BumperCap_LP005
+        weight: 1
+      - path: ButterFlyDECAL
+        weight: 1
+      - path: ButterFlyDECAL/ButterFlyPlastic
+        weight: 1
+      - path: Cabinet
+        weight: 1
+      - path: Cabinet/BackBox
+        weight: 1
+      - path: Cabinet/CoinDoorFrame
+        weight: 1
+      - path: Cabinet/LockdownBar
+        weight: 1
+      - path: CabinetLeg001
+        weight: 1
+      - path: CabinetLeg001/Box024
+        weight: 1
+      - path: CabinetLeg003
+        weight: 1
+      - path: CabinetLeg003/Box026
+        weight: 1
+      - path: CabinetLeg004
+        weight: 1
+      - path: CabinetLeg004/Box027
+        weight: 1
+      - path: CabinetLeg005
+        weight: 1
+      - path: CabinetLeg005/Box028
+        weight: 1
+      - path: cabletie00
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: CoconutPlasticGuard
+        weight: 1
+      - path: CoinDoorLP
+        weight: 1
+      - path: Cylinder004
+        weight: 1
+      - path: Cylinder004/Plane011
+        weight: 1
+      - path: Cylinder004/Plane011/Line010
+        weight: 1
+      - path: Cylinder004/Plane031
+        weight: 1
+      - path: Cylinder004/Wiring002
+        weight: 1
+      - path: Cylinder004/Wiring003
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder012
+        weight: 1
+      - path: Cylinder015
+        weight: 1
+      - path: Cylinder016
+        weight: 1
+      - path: Cylinder017
+        weight: 1
+      - path: Cylinder018
+        weight: 1
+      - path: Cylinder021
+        weight: 1
+      - path: Cylinder022
+        weight: 1
+      - path: Cylinder024
+        weight: 1
+      - path: Cylinder026
+        weight: 1
+      - path: Cylinder027
+        weight: 1
+      - path: Cylinder027/Rubberwhite
+        weight: 1
+      - path: Cylinder028
+        weight: 1
+      - path: Cylinder028/Rubberwhite001
+        weight: 1
+      - path: Cylinder029
+        weight: 1
+      - path: Cylinder029/Rubberwhite002
+        weight: 1
+      - path: Cylinder030
+        weight: 1
+      - path: Cylinder031
+        weight: 1
+      - path: Cylinder032
+        weight: 1
+      - path: Cylinder033
+        weight: 1
+      - path: Cylinder034
+        weight: 1
+      - path: Cylinder035
+        weight: 1
+      - path: Flipper
+        weight: 1
+      - path: Flipper/FlipperRubber
+        weight: 1
+      - path: FlipperRubber001
+        weight: 1
+      - path: FlipperRubber001/Flipper001
+        weight: 1
+      - path: Guideline00
+        weight: 1
+      - path: Halfpost004
+        weight: 1
+      - path: Halfpost005
+        weight: 1
+      - path: halfpost5
+        weight: 1
+      - path: halfpost006
+        weight: 1
+      - path: Halfposts
+        weight: 1
+      - path: Hotpiedecal
+        weight: 1
+      - path: Hotpiedecal/HotpiePlastic
+        weight: 1
+      - path: InsertArrow
+        weight: 1
+      - path: Kicker
+        weight: 1
+      - path: KickerSaucer
+        weight: 1
+      - path: Kona
+        weight: 1
+      - path: Kona/dome4
+        weight: 1
+      - path: LiftRamp(plastic)
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line035
+        weight: 1
+      - path: Line067
+        weight: 1
+      - path: Line069
+        weight: 1
+      - path: Line075
+        weight: 1
+      - path: Line080
+        weight: 1
+      - path: Line081
+        weight: 1
+      - path: Line083
+        weight: 1
+      - path: Line084
+        weight: 1
+      - path: Line085
+        weight: 1
+      - path: Line086
+        weight: 1
+      - path: Line088
+        weight: 1
+      - path: Line108
+        weight: 1
+      - path: Line112
+        weight: 1
+      - path: Line113
+        weight: 1
+      - path: Line114
+        weight: 1
+      - path: Line116
+        weight: 1
+      - path: Line117
+        weight: 1
+      - path: Line118
+        weight: 1
+      - path: Line119
+        weight: 1
+      - path: Line120
+        weight: 1
+      - path: LockNut
+        weight: 1
+      - path: LockNut001
+        weight: 1
+      - path: LockNut003
+        weight: 1
+      - path: LockNut003/Cylinder020
+        weight: 1
+      - path: LockNut009_LP
+        weight: 1
+      - path: LockNut009_LP002
+        weight: 1
+      - path: LockNut009_LP003
+        weight: 1
+      - path: LockNut009_LP004
+        weight: 1
+      - path: LockNut009_LP005
+        weight: 1
+      - path: LockNut009_LP006
+        weight: 1
+      - path: LockNut009_LP007
+        weight: 1
+      - path: LockNut010
+        weight: 1
+      - path: LockNut011
+        weight: 1
+      - path: LockNut012
+        weight: 1
+      - path: LockNut013
+        weight: 1
+      - path: LockNut014
+        weight: 1
+      - path: LockNut015
+        weight: 1
+      - path: LockNut016
+        weight: 1
+      - path: Loft004
+        weight: 1
+      - path: Loft004/Loft004_MeshPart0
+        weight: 1
+      - path: Loft004/Loft004_MeshPart1
+        weight: 1
+      - path: Loft004/Loft004_MeshPart2
+        weight: 1
+      - path: Loft006
+        weight: 1
+      - path: Loft009
+        weight: 1
+      - path: LSlingPlastic
+        weight: 1
+      - path: MechArm001
+        weight: 1
+      - path: MetalWalls
+        weight: 1
+      - path: newPF001
+        weight: 1
+      - path: NewRampStart002
+        weight: 1
+      - path: Object016
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object019
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object021
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object024
+        weight: 1
+      - path: Object025
+        weight: 1
+      - path: PalmTreePlastic003
+        weight: 1
+      - path: Peg
+        weight: 1
+      - path: Peg002
+        weight: 1
+      - path: Peg003
+        weight: 1
+      - path: Peg004
+        weight: 1
+      - path: Peg005
+        weight: 1
+      - path: Peg006
+        weight: 1
+      - path: Peg007
+        weight: 1
+      - path: Peg008
+        weight: 1
+      - path: Peg009
+        weight: 1
+      - path: Peg010
+        weight: 1
+      - path: Peg011
+        weight: 1
+      - path: Peg012
+        weight: 1
+      - path: peg12
+        weight: 1
+      - path: Peg013
+        weight: 1
+      - path: Peg014
+        weight: 1
+      - path: Peg015
+        weight: 1
+      - path: Peg016
+        weight: 1
+      - path: Peg017
+        weight: 1
+      - path: Peg018
+        weight: 1
+      - path: Peg019
+        weight: 1
+      - path: Peg020
+        weight: 1
+      - path: Peg021
+        weight: 1
+      - path: Peg022
+        weight: 1
+      - path: Pinball002
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane002/Line004
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane004/LoveyPlastic
+        weight: 1
+      - path: Plane006
+        weight: 1
+      - path: Plane006/Line008
+        weight: 1
+      - path: Plane008
+        weight: 1
+      - path: Plane008/Line006
+        weight: 1
+      - path: Plane009
+        weight: 1
+      - path: Plane009/Line005
+        weight: 1
+      - path: Plane009/Line005/Halfpost2
+        weight: 1
+      - path: Plane009/RMPlasticCover
+        weight: 1
+      - path: Plane012
+        weight: 1
+      - path: Plane012/Line011
+        weight: 1
+      - path: Plane020
+        weight: 1
+      - path: Plane020/Line058
+        weight: 1
+      - path: Plane021
+        weight: 1
+      - path: Plane021/Line059
+        weight: 1
+      - path: Plane022
+        weight: 1
+      - path: Plane022/Line003
+        weight: 1
+      - path: Plane024
+        weight: 1
+      - path: Plane024/Line066
+        weight: 1
+      - path: Plane025
+        weight: 1
+      - path: Plane025/FlipperPlastic
+        weight: 1
+      - path: Plane026
+        weight: 1
+      - path: Plane026/FlipperPlastic001
+        weight: 1
+      - path: Plane029
+        weight: 1
+      - path: Plane030
+        weight: 1
+      - path: Plane033
+        weight: 1
+      - path: Plane037
+        weight: 1
+      - path: Plane037/Plane040
+        weight: 1
+      - path: PlasticCorner
+        weight: 1
+      - path: PlayField
+        weight: 1
+      - path: PlungerCover
+        weight: 1
+      - path: PlungerRamp3
+        weight: 1
+      - path: PostGUIDE
+        weight: 1
+      - path: PostMetalset
+        weight: 1
+      - path: PostVP
+        weight: 1
+      - path: PostVP001
+        weight: 1
+      - path: PostVP002
+        weight: 1
+      - path: PostVP003
+        weight: 1
+      - path: PostVP004
+        weight: 1
+      - path: PostVP005
+        weight: 1
+      - path: ProfessorDecal
+        weight: 1
+      - path: ProfessorDecal/ProfessorPlastic
+        weight: 1
+      - path: RampGate
+        weight: 1
+      - path: RedTarget
+        weight: 1
+      - path: RedTarget001
+        weight: 1
+      - path: RedTarget002
+        weight: 1
+      - path: RSlingPlastic
+        weight: 1
+      - path: RTPlasticCover
+        weight: 1
+      - path: Rubberwhite03
+        weight: 1
+      - path: Rubberwhite04
+        weight: 1
+      - path: rubberwhite22
+        weight: 1
+      - path: Screw_HP034
+        weight: 1
+      - path: Screw_HP035
+        weight: 1
+      - path: Screw_HP036
+        weight: 1
+      - path: Screw_HP037
+        weight: 1
+      - path: ScrewLP001
+        weight: 1
+      - path: ScrewLP003
+        weight: 1
+      - path: ScrewLP004
+        weight: 1
+      - path: ScrewLP005
+        weight: 1
+      - path: ScrewLP006
+        weight: 1
+      - path: ScrewLP007
+        weight: 1
+      - path: ScrewLP008
+        weight: 1
+      - path: ScrewLP009
+        weight: 1
+      - path: ScrewLP010
+        weight: 1
+      - path: ScrewLP011
+        weight: 1
+      - path: ScrewLP012
+        weight: 1
+      - path: ScrewLP013
+        weight: 1
+      - path: ScrewLP014
+        weight: 1
+      - path: ScrewLP015
+        weight: 1
+      - path: ScrewLP016
+        weight: 1
+      - path: ScrewLP017
+        weight: 1
+      - path: ScrewLP018
+        weight: 1
+      - path: ScrewLP019
+        weight: 1
+      - path: ScrewLP020
+        weight: 1
+      - path: ScrewLP021
+        weight: 1
+      - path: ScrewLP022
+        weight: 1
+      - path: ScrewLP023
+        weight: 1
+      - path: ScrewLP024
+        weight: 1
+      - path: ScrewLP025
+        weight: 1
+      - path: ScrewLP026
+        weight: 1
+      - path: ScrewLP027
+        weight: 1
+      - path: ScrewLP028
+        weight: 1
+      - path: ScrewLP029
+        weight: 1
+      - path: ScrewLP030
+        weight: 1
+      - path: ScrewLP031
+        weight: 1
+      - path: ScrewLP032
+        weight: 1
+      - path: ScrewLP033
+        weight: 1
+      - path: ScrewLP034
+        weight: 1
+      - path: ScrewLP035
+        weight: 1
+      - path: ScrewLP036
+        weight: 1
+      - path: ScrewLP037
+        weight: 1
+      - path: ScrewLP038
+        weight: 1
+      - path: ScrewShafts003
+        weight: 1
+      - path: Shooter
+        weight: 1
+      - path: ShooterHousing
+        weight: 1
+      - path: skinnytarget
+        weight: 1
+      - path: SlingRubbers
+        weight: 1
+      - path: Sphere046
+        weight: 1
+      - path: Switch_positioned
+        weight: 1
+      - path: Switch_positioned001
+        weight: 1
+      - path: Switch_positioned002
+        weight: 1
+      - path: SwitchWIRE001
+        weight: 1
+      - path: SwitchWIRE003
+        weight: 1
+      - path: TargetParts
+        weight: 1
+      - path: TargetParts/Box001
+        weight: 1
+      - path: TargetParts001
+        weight: 1
+      - path: TargetParts001/target
+        weight: 1
+      - path: TargetParts002
+        weight: 1
+      - path: TargetParts002/target001
+        weight: 1
+      - path: TargetParts003
+        weight: 1
+      - path: TargetParts003/target002
+        weight: 1
+      - path: TargetParts004
+        weight: 1
+      - path: TargetParts004/target003
+        weight: 1
+      - path: TargetParts005
+        weight: 1
+      - path: TargetParts005/target004
+        weight: 1
+      - path: TargetParts006
+        weight: 1
+      - path: TargetParts006/target005
+        weight: 1
+      - path: TargetParts007
+        weight: 1
+      - path: TargetParts007/target006
+        weight: 1
+      - path: TargetParts008
+        weight: 1
+      - path: TargetParts008/target007
+        weight: 1
+      - path: TargetParts009
+        weight: 1
+      - path: TargetParts009/target008
+        weight: 1
+      - path: TurnTable(JungleRun)
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002/Object
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002/ScrewShaft006
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/Object010
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreeDecal
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreeDecal001
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreePlastic001
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreePlastic002
+        weight: 1
+      - path: Washer
+        weight: 1
+      - path: Washer001
+        weight: 1
+      - path: Washer005
+        weight: 1
+      - path: Washer006
+        weight: 1
+      - path: Washer007
+        weight: 1
+      - path: Washer008
+        weight: 1
+      - path: Washer009
+        weight: 1
+      - path: Washer010
+        weight: 1
+      - path: Washer011
+        weight: 1
+      - path: Washer012
+        weight: 1
+      - path: Washer013
+        weight: 1
+      - path: Washer016
+        weight: 1
+      - path: WireForm_template003
+        weight: 1
+      - path: WireGuide
+        weight: 1
+      - path: Woodsiding
+        weight: 1
+      - path: woodwalls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ShootBall
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Apron
+        weight: 1
+      - path: Apron 1
+        weight: 1
+      - path: Apron 1/Card1
+        weight: 1
+      - path: Apron 1/Card002
+        weight: 1
+      - path: Apron 1/Cylinder008
+        weight: 1
+      - path: BallEject
+        weight: 1
+      - path: BallStopper
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: bulb
+        weight: 1
+      - path: bulb001
+        weight: 1
+      - path: bulb002
+        weight: 1
+      - path: bulb003
+        weight: 1
+      - path: bulb004
+        weight: 1
+      - path: bulb005
+        weight: 1
+      - path: bulb006
+        weight: 1
+      - path: bulb007
+        weight: 1
+      - path: bulb008
+        weight: 1
+      - path: bulb009
+        weight: 1
+      - path: bulb010
+        weight: 1
+      - path: bulb011
+        weight: 1
+      - path: bulb012
+        weight: 1
+      - path: bulb013
+        weight: 1
+      - path: bulb014
+        weight: 1
+      - path: bulb015
+        weight: 1
+      - path: bulb016
+        weight: 1
+      - path: bulb017
+        weight: 1
+      - path: bulb018
+        weight: 1
+      - path: bulb019
+        weight: 1
+      - path: bulb020
+        weight: 1
+      - path: bulb021
+        weight: 1
+      - path: bulb022
+        weight: 1
+      - path: bulb023
+        weight: 1
+      - path: bulb024
+        weight: 1
+      - path: bulb025
+        weight: 1
+      - path: Bulbs
+        weight: 1
+      - path: bulbs001
+        weight: 1
+      - path: bulbsleft
+        weight: 1
+      - path: bumperassembly
+        weight: 1
+      - path: bumperassembly001
+        weight: 1
+      - path: bumperassembly002
+        weight: 1
+      - path: BumperCap_LP003
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews003
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews004
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews005
+        weight: 1
+      - path: BumperCap_LP004
+        weight: 1
+      - path: BumperCap_LP005
+        weight: 1
+      - path: ButterFlyDECAL
+        weight: 1
+      - path: ButterFlyDECAL/ButterFlyPlastic
+        weight: 1
+      - path: Cabinet
+        weight: 1
+      - path: Cabinet/BackBox
+        weight: 1
+      - path: Cabinet/CoinDoorFrame
+        weight: 1
+      - path: Cabinet/LockdownBar
+        weight: 1
+      - path: CabinetLeg001
+        weight: 1
+      - path: CabinetLeg001/Box024
+        weight: 1
+      - path: CabinetLeg003
+        weight: 1
+      - path: CabinetLeg003/Box026
+        weight: 1
+      - path: CabinetLeg004
+        weight: 1
+      - path: CabinetLeg004/Box027
+        weight: 1
+      - path: CabinetLeg005
+        weight: 1
+      - path: CabinetLeg005/Box028
+        weight: 1
+      - path: cabletie00
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: CoconutPlasticGuard
+        weight: 1
+      - path: CoinDoorLP
+        weight: 1
+      - path: Cylinder004
+        weight: 1
+      - path: Cylinder004/Plane011
+        weight: 1
+      - path: Cylinder004/Plane011/Line010
+        weight: 1
+      - path: Cylinder004/Plane031
+        weight: 1
+      - path: Cylinder004/Wiring002
+        weight: 1
+      - path: Cylinder004/Wiring003
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder012
+        weight: 1
+      - path: Cylinder015
+        weight: 1
+      - path: Cylinder016
+        weight: 1
+      - path: Cylinder017
+        weight: 1
+      - path: Cylinder018
+        weight: 1
+      - path: Cylinder021
+        weight: 1
+      - path: Cylinder022
+        weight: 1
+      - path: Cylinder024
+        weight: 1
+      - path: Cylinder026
+        weight: 1
+      - path: Cylinder027
+        weight: 1
+      - path: Cylinder027/Rubberwhite
+        weight: 1
+      - path: Cylinder028
+        weight: 1
+      - path: Cylinder028/Rubberwhite001
+        weight: 1
+      - path: Cylinder029
+        weight: 1
+      - path: Cylinder029/Rubberwhite002
+        weight: 1
+      - path: Cylinder030
+        weight: 1
+      - path: Cylinder031
+        weight: 1
+      - path: Cylinder032
+        weight: 1
+      - path: Cylinder033
+        weight: 1
+      - path: Cylinder034
+        weight: 1
+      - path: Cylinder035
+        weight: 1
+      - path: Flipper
+        weight: 1
+      - path: Flipper/FlipperRubber
+        weight: 1
+      - path: FlipperRubber001
+        weight: 1
+      - path: FlipperRubber001/Flipper001
+        weight: 1
+      - path: Guideline00
+        weight: 1
+      - path: Halfpost004
+        weight: 1
+      - path: Halfpost005
+        weight: 1
+      - path: halfpost5
+        weight: 1
+      - path: halfpost006
+        weight: 1
+      - path: Halfposts
+        weight: 1
+      - path: Hotpiedecal
+        weight: 1
+      - path: Hotpiedecal/HotpiePlastic
+        weight: 1
+      - path: InsertArrow
+        weight: 1
+      - path: Kicker
+        weight: 1
+      - path: KickerSaucer
+        weight: 1
+      - path: Kona
+        weight: 1
+      - path: Kona/dome4
+        weight: 1
+      - path: LiftRamp(plastic)
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line035
+        weight: 1
+      - path: Line067
+        weight: 1
+      - path: Line069
+        weight: 1
+      - path: Line075
+        weight: 1
+      - path: Line080
+        weight: 1
+      - path: Line081
+        weight: 1
+      - path: Line083
+        weight: 1
+      - path: Line084
+        weight: 1
+      - path: Line085
+        weight: 1
+      - path: Line086
+        weight: 1
+      - path: Line088
+        weight: 1
+      - path: Line108
+        weight: 1
+      - path: Line112
+        weight: 1
+      - path: Line113
+        weight: 1
+      - path: Line114
+        weight: 1
+      - path: Line116
+        weight: 1
+      - path: Line117
+        weight: 1
+      - path: Line118
+        weight: 1
+      - path: Line119
+        weight: 1
+      - path: Line120
+        weight: 1
+      - path: LockNut
+        weight: 1
+      - path: LockNut001
+        weight: 1
+      - path: LockNut003
+        weight: 1
+      - path: LockNut003/Cylinder020
+        weight: 1
+      - path: LockNut009_LP
+        weight: 1
+      - path: LockNut009_LP002
+        weight: 1
+      - path: LockNut009_LP003
+        weight: 1
+      - path: LockNut009_LP004
+        weight: 1
+      - path: LockNut009_LP005
+        weight: 1
+      - path: LockNut009_LP006
+        weight: 1
+      - path: LockNut009_LP007
+        weight: 1
+      - path: LockNut010
+        weight: 1
+      - path: LockNut011
+        weight: 1
+      - path: LockNut012
+        weight: 1
+      - path: LockNut013
+        weight: 1
+      - path: LockNut014
+        weight: 1
+      - path: LockNut015
+        weight: 1
+      - path: LockNut016
+        weight: 1
+      - path: Loft004
+        weight: 1
+      - path: Loft004/Loft004_MeshPart0
+        weight: 1
+      - path: Loft004/Loft004_MeshPart1
+        weight: 1
+      - path: Loft004/Loft004_MeshPart2
+        weight: 1
+      - path: Loft006
+        weight: 1
+      - path: Loft009
+        weight: 1
+      - path: LSlingPlastic
+        weight: 1
+      - path: MechArm001
+        weight: 1
+      - path: MetalWalls
+        weight: 1
+      - path: newPF001
+        weight: 1
+      - path: NewRampStart002
+        weight: 1
+      - path: Object016
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object019
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object021
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object024
+        weight: 1
+      - path: Object025
+        weight: 1
+      - path: PalmTreePlastic003
+        weight: 1
+      - path: Peg
+        weight: 1
+      - path: Peg002
+        weight: 1
+      - path: Peg003
+        weight: 1
+      - path: Peg004
+        weight: 1
+      - path: Peg005
+        weight: 1
+      - path: Peg006
+        weight: 1
+      - path: Peg007
+        weight: 1
+      - path: Peg008
+        weight: 1
+      - path: Peg009
+        weight: 1
+      - path: Peg010
+        weight: 1
+      - path: Peg011
+        weight: 1
+      - path: Peg012
+        weight: 1
+      - path: peg12
+        weight: 1
+      - path: Peg013
+        weight: 1
+      - path: Peg014
+        weight: 1
+      - path: Peg015
+        weight: 1
+      - path: Peg016
+        weight: 1
+      - path: Peg017
+        weight: 1
+      - path: Peg018
+        weight: 1
+      - path: Peg019
+        weight: 1
+      - path: Peg020
+        weight: 1
+      - path: Peg021
+        weight: 1
+      - path: Peg022
+        weight: 1
+      - path: Pinball002
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane002/Line004
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane004/LoveyPlastic
+        weight: 1
+      - path: Plane006
+        weight: 1
+      - path: Plane006/Line008
+        weight: 1
+      - path: Plane008
+        weight: 1
+      - path: Plane008/Line006
+        weight: 1
+      - path: Plane009
+        weight: 1
+      - path: Plane009/Line005
+        weight: 1
+      - path: Plane009/Line005/Halfpost2
+        weight: 1
+      - path: Plane009/RMPlasticCover
+        weight: 1
+      - path: Plane012
+        weight: 1
+      - path: Plane012/Line011
+        weight: 1
+      - path: Plane020
+        weight: 1
+      - path: Plane020/Line058
+        weight: 1
+      - path: Plane021
+        weight: 1
+      - path: Plane021/Line059
+        weight: 1
+      - path: Plane022
+        weight: 1
+      - path: Plane022/Line003
+        weight: 1
+      - path: Plane024
+        weight: 1
+      - path: Plane024/Line066
+        weight: 1
+      - path: Plane025
+        weight: 1
+      - path: Plane025/FlipperPlastic
+        weight: 1
+      - path: Plane026
+        weight: 1
+      - path: Plane026/FlipperPlastic001
+        weight: 1
+      - path: Plane029
+        weight: 1
+      - path: Plane030
+        weight: 1
+      - path: Plane033
+        weight: 1
+      - path: Plane037
+        weight: 1
+      - path: Plane037/Plane040
+        weight: 1
+      - path: PlasticCorner
+        weight: 1
+      - path: PlayField
+        weight: 1
+      - path: PlungerCover
+        weight: 1
+      - path: PlungerRamp3
+        weight: 1
+      - path: PostGUIDE
+        weight: 1
+      - path: PostMetalset
+        weight: 1
+      - path: PostVP
+        weight: 1
+      - path: PostVP001
+        weight: 1
+      - path: PostVP002
+        weight: 1
+      - path: PostVP003
+        weight: 1
+      - path: PostVP004
+        weight: 1
+      - path: PostVP005
+        weight: 1
+      - path: ProfessorDecal
+        weight: 1
+      - path: ProfessorDecal/ProfessorPlastic
+        weight: 1
+      - path: RampGate
+        weight: 1
+      - path: RedTarget
+        weight: 1
+      - path: RedTarget001
+        weight: 1
+      - path: RedTarget002
+        weight: 1
+      - path: RSlingPlastic
+        weight: 1
+      - path: RTPlasticCover
+        weight: 1
+      - path: Rubberwhite03
+        weight: 1
+      - path: Rubberwhite04
+        weight: 1
+      - path: rubberwhite22
+        weight: 1
+      - path: Screw_HP034
+        weight: 1
+      - path: Screw_HP035
+        weight: 1
+      - path: Screw_HP036
+        weight: 1
+      - path: Screw_HP037
+        weight: 1
+      - path: ScrewLP001
+        weight: 1
+      - path: ScrewLP003
+        weight: 1
+      - path: ScrewLP004
+        weight: 1
+      - path: ScrewLP005
+        weight: 1
+      - path: ScrewLP006
+        weight: 1
+      - path: ScrewLP007
+        weight: 1
+      - path: ScrewLP008
+        weight: 1
+      - path: ScrewLP009
+        weight: 1
+      - path: ScrewLP010
+        weight: 1
+      - path: ScrewLP011
+        weight: 1
+      - path: ScrewLP012
+        weight: 1
+      - path: ScrewLP013
+        weight: 1
+      - path: ScrewLP014
+        weight: 1
+      - path: ScrewLP015
+        weight: 1
+      - path: ScrewLP016
+        weight: 1
+      - path: ScrewLP017
+        weight: 1
+      - path: ScrewLP018
+        weight: 1
+      - path: ScrewLP019
+        weight: 1
+      - path: ScrewLP020
+        weight: 1
+      - path: ScrewLP021
+        weight: 1
+      - path: ScrewLP022
+        weight: 1
+      - path: ScrewLP023
+        weight: 1
+      - path: ScrewLP024
+        weight: 1
+      - path: ScrewLP025
+        weight: 1
+      - path: ScrewLP026
+        weight: 1
+      - path: ScrewLP027
+        weight: 1
+      - path: ScrewLP028
+        weight: 1
+      - path: ScrewLP029
+        weight: 1
+      - path: ScrewLP030
+        weight: 1
+      - path: ScrewLP031
+        weight: 1
+      - path: ScrewLP032
+        weight: 1
+      - path: ScrewLP033
+        weight: 1
+      - path: ScrewLP034
+        weight: 1
+      - path: ScrewLP035
+        weight: 1
+      - path: ScrewLP036
+        weight: 1
+      - path: ScrewLP037
+        weight: 1
+      - path: ScrewLP038
+        weight: 1
+      - path: ScrewShafts003
+        weight: 1
+      - path: Shooter
+        weight: 1
+      - path: ShooterHousing
+        weight: 1
+      - path: skinnytarget
+        weight: 1
+      - path: SlingRubbers
+        weight: 1
+      - path: Sphere046
+        weight: 1
+      - path: Switch_positioned
+        weight: 1
+      - path: Switch_positioned001
+        weight: 1
+      - path: Switch_positioned002
+        weight: 1
+      - path: SwitchWIRE001
+        weight: 1
+      - path: SwitchWIRE003
+        weight: 1
+      - path: TargetParts
+        weight: 1
+      - path: TargetParts/Box001
+        weight: 1
+      - path: TargetParts001
+        weight: 1
+      - path: TargetParts001/target
+        weight: 1
+      - path: TargetParts002
+        weight: 1
+      - path: TargetParts002/target001
+        weight: 1
+      - path: TargetParts003
+        weight: 1
+      - path: TargetParts003/target002
+        weight: 1
+      - path: TargetParts004
+        weight: 1
+      - path: TargetParts004/target003
+        weight: 1
+      - path: TargetParts005
+        weight: 1
+      - path: TargetParts005/target004
+        weight: 1
+      - path: TargetParts006
+        weight: 1
+      - path: TargetParts006/target005
+        weight: 1
+      - path: TargetParts007
+        weight: 1
+      - path: TargetParts007/target006
+        weight: 1
+      - path: TargetParts008
+        weight: 1
+      - path: TargetParts008/target007
+        weight: 1
+      - path: TargetParts009
+        weight: 1
+      - path: TargetParts009/target008
+        weight: 1
+      - path: TurnTable(JungleRun)
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002/Object
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002/ScrewShaft006
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/Object010
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreeDecal
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreeDecal001
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreePlastic001
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreePlastic002
+        weight: 1
+      - path: Washer
+        weight: 1
+      - path: Washer001
+        weight: 1
+      - path: Washer005
+        weight: 1
+      - path: Washer006
+        weight: 1
+      - path: Washer007
+        weight: 1
+      - path: Washer008
+        weight: 1
+      - path: Washer009
+        weight: 1
+      - path: Washer010
+        weight: 1
+      - path: Washer011
+        weight: 1
+      - path: Washer012
+        weight: 1
+      - path: Washer013
+        weight: 1
+      - path: Washer016
+        weight: 1
+      - path: WireForm_template003
+        weight: 1
+      - path: WireGuide
+        weight: 1
+      - path: Woodsiding
+        weight: 1
+      - path: woodwalls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ShootPadRight
+      takeName: Take 001
+      firstFrame: 134
+      lastFrame: 146
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Apron
+        weight: 1
+      - path: Apron 1
+        weight: 1
+      - path: Apron 1/Card1
+        weight: 1
+      - path: Apron 1/Card002
+        weight: 1
+      - path: Apron 1/Cylinder008
+        weight: 1
+      - path: BallEject
+        weight: 1
+      - path: BallStopper
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: bulb
+        weight: 1
+      - path: bulb001
+        weight: 1
+      - path: bulb002
+        weight: 1
+      - path: bulb003
+        weight: 1
+      - path: bulb004
+        weight: 1
+      - path: bulb005
+        weight: 1
+      - path: bulb006
+        weight: 1
+      - path: bulb007
+        weight: 1
+      - path: bulb008
+        weight: 1
+      - path: bulb009
+        weight: 1
+      - path: bulb010
+        weight: 1
+      - path: bulb011
+        weight: 1
+      - path: bulb012
+        weight: 1
+      - path: bulb013
+        weight: 1
+      - path: bulb014
+        weight: 1
+      - path: bulb015
+        weight: 1
+      - path: bulb016
+        weight: 1
+      - path: bulb017
+        weight: 1
+      - path: bulb018
+        weight: 1
+      - path: bulb019
+        weight: 1
+      - path: bulb020
+        weight: 1
+      - path: bulb021
+        weight: 1
+      - path: bulb022
+        weight: 1
+      - path: bulb023
+        weight: 1
+      - path: bulb024
+        weight: 1
+      - path: bulb025
+        weight: 1
+      - path: Bulbs
+        weight: 1
+      - path: bulbs001
+        weight: 1
+      - path: bulbsleft
+        weight: 1
+      - path: bumperassembly
+        weight: 1
+      - path: bumperassembly001
+        weight: 1
+      - path: bumperassembly002
+        weight: 1
+      - path: BumperCap_LP003
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews003
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews004
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews005
+        weight: 1
+      - path: BumperCap_LP004
+        weight: 1
+      - path: BumperCap_LP005
+        weight: 1
+      - path: ButterFlyDECAL
+        weight: 1
+      - path: ButterFlyDECAL/ButterFlyPlastic
+        weight: 1
+      - path: Cabinet
+        weight: 1
+      - path: Cabinet/BackBox
+        weight: 1
+      - path: Cabinet/CoinDoorFrame
+        weight: 1
+      - path: Cabinet/LockdownBar
+        weight: 1
+      - path: CabinetLeg001
+        weight: 1
+      - path: CabinetLeg001/Box024
+        weight: 1
+      - path: CabinetLeg003
+        weight: 1
+      - path: CabinetLeg003/Box026
+        weight: 1
+      - path: CabinetLeg004
+        weight: 1
+      - path: CabinetLeg004/Box027
+        weight: 1
+      - path: CabinetLeg005
+        weight: 1
+      - path: CabinetLeg005/Box028
+        weight: 1
+      - path: cabletie00
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: CoconutPlasticGuard
+        weight: 1
+      - path: CoinDoorLP
+        weight: 1
+      - path: Cylinder004
+        weight: 1
+      - path: Cylinder004/Plane011
+        weight: 1
+      - path: Cylinder004/Plane011/Line010
+        weight: 1
+      - path: Cylinder004/Plane031
+        weight: 1
+      - path: Cylinder004/Wiring002
+        weight: 1
+      - path: Cylinder004/Wiring003
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder012
+        weight: 1
+      - path: Cylinder015
+        weight: 1
+      - path: Cylinder016
+        weight: 1
+      - path: Cylinder017
+        weight: 1
+      - path: Cylinder018
+        weight: 1
+      - path: Cylinder021
+        weight: 1
+      - path: Cylinder022
+        weight: 1
+      - path: Cylinder024
+        weight: 1
+      - path: Cylinder026
+        weight: 1
+      - path: Cylinder027
+        weight: 1
+      - path: Cylinder027/Rubberwhite
+        weight: 1
+      - path: Cylinder028
+        weight: 1
+      - path: Cylinder028/Rubberwhite001
+        weight: 1
+      - path: Cylinder029
+        weight: 1
+      - path: Cylinder029/Rubberwhite002
+        weight: 1
+      - path: Cylinder030
+        weight: 1
+      - path: Cylinder031
+        weight: 1
+      - path: Cylinder032
+        weight: 1
+      - path: Cylinder033
+        weight: 1
+      - path: Cylinder034
+        weight: 1
+      - path: Cylinder035
+        weight: 1
+      - path: Flipper
+        weight: 1
+      - path: Flipper/FlipperRubber
+        weight: 1
+      - path: FlipperRubber001
+        weight: 1
+      - path: FlipperRubber001/Flipper001
+        weight: 1
+      - path: Guideline00
+        weight: 1
+      - path: Halfpost004
+        weight: 1
+      - path: Halfpost005
+        weight: 1
+      - path: halfpost5
+        weight: 1
+      - path: halfpost006
+        weight: 1
+      - path: Halfposts
+        weight: 1
+      - path: Hotpiedecal
+        weight: 1
+      - path: Hotpiedecal/HotpiePlastic
+        weight: 1
+      - path: InsertArrow
+        weight: 1
+      - path: Kicker
+        weight: 1
+      - path: KickerSaucer
+        weight: 1
+      - path: Kona
+        weight: 1
+      - path: Kona/dome4
+        weight: 1
+      - path: LiftRamp(plastic)
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line035
+        weight: 1
+      - path: Line067
+        weight: 1
+      - path: Line069
+        weight: 1
+      - path: Line075
+        weight: 1
+      - path: Line080
+        weight: 1
+      - path: Line081
+        weight: 1
+      - path: Line083
+        weight: 1
+      - path: Line084
+        weight: 1
+      - path: Line085
+        weight: 1
+      - path: Line086
+        weight: 1
+      - path: Line088
+        weight: 1
+      - path: Line108
+        weight: 1
+      - path: Line112
+        weight: 1
+      - path: Line113
+        weight: 1
+      - path: Line114
+        weight: 1
+      - path: Line116
+        weight: 1
+      - path: Line117
+        weight: 1
+      - path: Line118
+        weight: 1
+      - path: Line119
+        weight: 1
+      - path: Line120
+        weight: 1
+      - path: LockNut
+        weight: 1
+      - path: LockNut001
+        weight: 1
+      - path: LockNut003
+        weight: 1
+      - path: LockNut003/Cylinder020
+        weight: 1
+      - path: LockNut009_LP
+        weight: 1
+      - path: LockNut009_LP002
+        weight: 1
+      - path: LockNut009_LP003
+        weight: 1
+      - path: LockNut009_LP004
+        weight: 1
+      - path: LockNut009_LP005
+        weight: 1
+      - path: LockNut009_LP006
+        weight: 1
+      - path: LockNut009_LP007
+        weight: 1
+      - path: LockNut010
+        weight: 1
+      - path: LockNut011
+        weight: 1
+      - path: LockNut012
+        weight: 1
+      - path: LockNut013
+        weight: 1
+      - path: LockNut014
+        weight: 1
+      - path: LockNut015
+        weight: 1
+      - path: LockNut016
+        weight: 1
+      - path: Loft004
+        weight: 1
+      - path: Loft004/Loft004_MeshPart0
+        weight: 1
+      - path: Loft004/Loft004_MeshPart1
+        weight: 1
+      - path: Loft004/Loft004_MeshPart2
+        weight: 1
+      - path: Loft006
+        weight: 1
+      - path: Loft009
+        weight: 1
+      - path: LSlingPlastic
+        weight: 1
+      - path: MechArm001
+        weight: 1
+      - path: MetalWalls
+        weight: 1
+      - path: newPF001
+        weight: 1
+      - path: NewRampStart002
+        weight: 1
+      - path: Object016
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object019
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object021
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object024
+        weight: 1
+      - path: Object025
+        weight: 1
+      - path: PalmTreePlastic003
+        weight: 1
+      - path: Peg
+        weight: 1
+      - path: Peg002
+        weight: 1
+      - path: Peg003
+        weight: 1
+      - path: Peg004
+        weight: 1
+      - path: Peg005
+        weight: 1
+      - path: Peg006
+        weight: 1
+      - path: Peg007
+        weight: 1
+      - path: Peg008
+        weight: 1
+      - path: Peg009
+        weight: 1
+      - path: Peg010
+        weight: 1
+      - path: Peg011
+        weight: 1
+      - path: Peg012
+        weight: 1
+      - path: peg12
+        weight: 1
+      - path: Peg013
+        weight: 1
+      - path: Peg014
+        weight: 1
+      - path: Peg015
+        weight: 1
+      - path: Peg016
+        weight: 1
+      - path: Peg017
+        weight: 1
+      - path: Peg018
+        weight: 1
+      - path: Peg019
+        weight: 1
+      - path: Peg020
+        weight: 1
+      - path: Peg021
+        weight: 1
+      - path: Peg022
+        weight: 1
+      - path: Pinball002
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane002/Line004
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane004/LoveyPlastic
+        weight: 1
+      - path: Plane006
+        weight: 1
+      - path: Plane006/Line008
+        weight: 1
+      - path: Plane008
+        weight: 1
+      - path: Plane008/Line006
+        weight: 1
+      - path: Plane009
+        weight: 1
+      - path: Plane009/Line005
+        weight: 1
+      - path: Plane009/Line005/Halfpost2
+        weight: 1
+      - path: Plane009/RMPlasticCover
+        weight: 1
+      - path: Plane012
+        weight: 1
+      - path: Plane012/Line011
+        weight: 1
+      - path: Plane020
+        weight: 1
+      - path: Plane020/Line058
+        weight: 1
+      - path: Plane021
+        weight: 1
+      - path: Plane021/Line059
+        weight: 1
+      - path: Plane022
+        weight: 1
+      - path: Plane022/Line003
+        weight: 1
+      - path: Plane024
+        weight: 1
+      - path: Plane024/Line066
+        weight: 1
+      - path: Plane025
+        weight: 1
+      - path: Plane025/FlipperPlastic
+        weight: 1
+      - path: Plane026
+        weight: 1
+      - path: Plane026/FlipperPlastic001
+        weight: 1
+      - path: Plane029
+        weight: 1
+      - path: Plane030
+        weight: 1
+      - path: Plane033
+        weight: 1
+      - path: Plane037
+        weight: 1
+      - path: Plane037/Plane040
+        weight: 1
+      - path: PlasticCorner
+        weight: 1
+      - path: PlayField
+        weight: 1
+      - path: PlungerCover
+        weight: 1
+      - path: PlungerRamp3
+        weight: 1
+      - path: PostGUIDE
+        weight: 1
+      - path: PostMetalset
+        weight: 1
+      - path: PostVP
+        weight: 1
+      - path: PostVP001
+        weight: 1
+      - path: PostVP002
+        weight: 1
+      - path: PostVP003
+        weight: 1
+      - path: PostVP004
+        weight: 1
+      - path: PostVP005
+        weight: 1
+      - path: ProfessorDecal
+        weight: 1
+      - path: ProfessorDecal/ProfessorPlastic
+        weight: 1
+      - path: RampGate
+        weight: 1
+      - path: RedTarget
+        weight: 1
+      - path: RedTarget001
+        weight: 1
+      - path: RedTarget002
+        weight: 1
+      - path: RSlingPlastic
+        weight: 1
+      - path: RTPlasticCover
+        weight: 1
+      - path: Rubberwhite03
+        weight: 1
+      - path: Rubberwhite04
+        weight: 1
+      - path: rubberwhite22
+        weight: 1
+      - path: Screw_HP034
+        weight: 1
+      - path: Screw_HP035
+        weight: 1
+      - path: Screw_HP036
+        weight: 1
+      - path: Screw_HP037
+        weight: 1
+      - path: ScrewLP001
+        weight: 1
+      - path: ScrewLP003
+        weight: 1
+      - path: ScrewLP004
+        weight: 1
+      - path: ScrewLP005
+        weight: 1
+      - path: ScrewLP006
+        weight: 1
+      - path: ScrewLP007
+        weight: 1
+      - path: ScrewLP008
+        weight: 1
+      - path: ScrewLP009
+        weight: 1
+      - path: ScrewLP010
+        weight: 1
+      - path: ScrewLP011
+        weight: 1
+      - path: ScrewLP012
+        weight: 1
+      - path: ScrewLP013
+        weight: 1
+      - path: ScrewLP014
+        weight: 1
+      - path: ScrewLP015
+        weight: 1
+      - path: ScrewLP016
+        weight: 1
+      - path: ScrewLP017
+        weight: 1
+      - path: ScrewLP018
+        weight: 1
+      - path: ScrewLP019
+        weight: 1
+      - path: ScrewLP020
+        weight: 1
+      - path: ScrewLP021
+        weight: 1
+      - path: ScrewLP022
+        weight: 1
+      - path: ScrewLP023
+        weight: 1
+      - path: ScrewLP024
+        weight: 1
+      - path: ScrewLP025
+        weight: 1
+      - path: ScrewLP026
+        weight: 1
+      - path: ScrewLP027
+        weight: 1
+      - path: ScrewLP028
+        weight: 1
+      - path: ScrewLP029
+        weight: 1
+      - path: ScrewLP030
+        weight: 1
+      - path: ScrewLP031
+        weight: 1
+      - path: ScrewLP032
+        weight: 1
+      - path: ScrewLP033
+        weight: 1
+      - path: ScrewLP034
+        weight: 1
+      - path: ScrewLP035
+        weight: 1
+      - path: ScrewLP036
+        weight: 1
+      - path: ScrewLP037
+        weight: 1
+      - path: ScrewLP038
+        weight: 1
+      - path: ScrewShafts003
+        weight: 1
+      - path: Shooter
+        weight: 1
+      - path: ShooterHousing
+        weight: 1
+      - path: skinnytarget
+        weight: 1
+      - path: SlingRubbers
+        weight: 1
+      - path: Sphere046
+        weight: 1
+      - path: Switch_positioned
+        weight: 1
+      - path: Switch_positioned001
+        weight: 1
+      - path: Switch_positioned002
+        weight: 1
+      - path: SwitchWIRE001
+        weight: 1
+      - path: SwitchWIRE003
+        weight: 1
+      - path: TargetParts
+        weight: 1
+      - path: TargetParts/Box001
+        weight: 1
+      - path: TargetParts001
+        weight: 1
+      - path: TargetParts001/target
+        weight: 1
+      - path: TargetParts002
+        weight: 1
+      - path: TargetParts002/target001
+        weight: 1
+      - path: TargetParts003
+        weight: 1
+      - path: TargetParts003/target002
+        weight: 1
+      - path: TargetParts004
+        weight: 1
+      - path: TargetParts004/target003
+        weight: 1
+      - path: TargetParts005
+        weight: 1
+      - path: TargetParts005/target004
+        weight: 1
+      - path: TargetParts006
+        weight: 1
+      - path: TargetParts006/target005
+        weight: 1
+      - path: TargetParts007
+        weight: 1
+      - path: TargetParts007/target006
+        weight: 1
+      - path: TargetParts008
+        weight: 1
+      - path: TargetParts008/target007
+        weight: 1
+      - path: TargetParts009
+        weight: 1
+      - path: TargetParts009/target008
+        weight: 1
+      - path: TurnTable(JungleRun)
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002/Object
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002/ScrewShaft006
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/Object010
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreeDecal
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreeDecal001
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreePlastic001
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreePlastic002
+        weight: 1
+      - path: Washer
+        weight: 1
+      - path: Washer001
+        weight: 1
+      - path: Washer005
+        weight: 1
+      - path: Washer006
+        weight: 1
+      - path: Washer007
+        weight: 1
+      - path: Washer008
+        weight: 1
+      - path: Washer009
+        weight: 1
+      - path: Washer010
+        weight: 1
+      - path: Washer011
+        weight: 1
+      - path: Washer012
+        weight: 1
+      - path: Washer013
+        weight: 1
+      - path: Washer016
+        weight: 1
+      - path: WireForm_template003
+        weight: 1
+      - path: WireGuide
+        weight: 1
+      - path: Woodsiding
+        weight: 1
+      - path: woodwalls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RoundPaddleDown
+      takeName: Take 001
+      firstFrame: 33
+      lastFrame: 109
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Apron
+        weight: 1
+      - path: Apron 1
+        weight: 1
+      - path: Apron 1/Card1
+        weight: 1
+      - path: Apron 1/Card002
+        weight: 1
+      - path: Apron 1/Cylinder008
+        weight: 1
+      - path: BallEject
+        weight: 1
+      - path: BallStopper
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: bulb
+        weight: 1
+      - path: bulb001
+        weight: 1
+      - path: bulb002
+        weight: 1
+      - path: bulb003
+        weight: 1
+      - path: bulb004
+        weight: 1
+      - path: bulb005
+        weight: 1
+      - path: bulb006
+        weight: 1
+      - path: bulb007
+        weight: 1
+      - path: bulb008
+        weight: 1
+      - path: bulb009
+        weight: 1
+      - path: bulb010
+        weight: 1
+      - path: bulb011
+        weight: 1
+      - path: bulb012
+        weight: 1
+      - path: bulb013
+        weight: 1
+      - path: bulb014
+        weight: 1
+      - path: bulb015
+        weight: 1
+      - path: bulb016
+        weight: 1
+      - path: bulb017
+        weight: 1
+      - path: bulb018
+        weight: 1
+      - path: bulb019
+        weight: 1
+      - path: bulb020
+        weight: 1
+      - path: bulb021
+        weight: 1
+      - path: bulb022
+        weight: 1
+      - path: bulb023
+        weight: 1
+      - path: bulb024
+        weight: 1
+      - path: bulb025
+        weight: 1
+      - path: Bulbs
+        weight: 1
+      - path: bulbs001
+        weight: 1
+      - path: bulbsleft
+        weight: 1
+      - path: bumperassembly
+        weight: 1
+      - path: bumperassembly001
+        weight: 1
+      - path: bumperassembly002
+        weight: 1
+      - path: BumperCap_LP003
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews003
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews004
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews005
+        weight: 1
+      - path: BumperCap_LP004
+        weight: 1
+      - path: BumperCap_LP005
+        weight: 1
+      - path: ButterFlyDECAL
+        weight: 1
+      - path: ButterFlyDECAL/ButterFlyPlastic
+        weight: 1
+      - path: Cabinet
+        weight: 1
+      - path: Cabinet/BackBox
+        weight: 1
+      - path: Cabinet/CoinDoorFrame
+        weight: 1
+      - path: Cabinet/LockdownBar
+        weight: 1
+      - path: CabinetLeg001
+        weight: 1
+      - path: CabinetLeg001/Box024
+        weight: 1
+      - path: CabinetLeg003
+        weight: 1
+      - path: CabinetLeg003/Box026
+        weight: 1
+      - path: CabinetLeg004
+        weight: 1
+      - path: CabinetLeg004/Box027
+        weight: 1
+      - path: CabinetLeg005
+        weight: 1
+      - path: CabinetLeg005/Box028
+        weight: 1
+      - path: cabletie00
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: CoconutPlasticGuard
+        weight: 1
+      - path: CoinDoorLP
+        weight: 1
+      - path: Cylinder004
+        weight: 1
+      - path: Cylinder004/Plane011
+        weight: 1
+      - path: Cylinder004/Plane011/Line010
+        weight: 1
+      - path: Cylinder004/Plane031
+        weight: 1
+      - path: Cylinder004/Wiring002
+        weight: 1
+      - path: Cylinder004/Wiring003
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder012
+        weight: 1
+      - path: Cylinder015
+        weight: 1
+      - path: Cylinder016
+        weight: 1
+      - path: Cylinder017
+        weight: 1
+      - path: Cylinder018
+        weight: 1
+      - path: Cylinder021
+        weight: 1
+      - path: Cylinder022
+        weight: 1
+      - path: Cylinder024
+        weight: 1
+      - path: Cylinder026
+        weight: 1
+      - path: Cylinder027
+        weight: 1
+      - path: Cylinder027/Rubberwhite
+        weight: 1
+      - path: Cylinder028
+        weight: 1
+      - path: Cylinder028/Rubberwhite001
+        weight: 1
+      - path: Cylinder029
+        weight: 1
+      - path: Cylinder029/Rubberwhite002
+        weight: 1
+      - path: Cylinder030
+        weight: 1
+      - path: Cylinder031
+        weight: 1
+      - path: Cylinder032
+        weight: 1
+      - path: Cylinder033
+        weight: 1
+      - path: Cylinder034
+        weight: 1
+      - path: Cylinder035
+        weight: 1
+      - path: Flipper
+        weight: 1
+      - path: Flipper/FlipperRubber
+        weight: 1
+      - path: FlipperRubber001
+        weight: 1
+      - path: FlipperRubber001/Flipper001
+        weight: 1
+      - path: Guideline00
+        weight: 1
+      - path: Halfpost004
+        weight: 1
+      - path: Halfpost005
+        weight: 1
+      - path: halfpost5
+        weight: 1
+      - path: halfpost006
+        weight: 1
+      - path: Halfposts
+        weight: 1
+      - path: Hotpiedecal
+        weight: 1
+      - path: Hotpiedecal/HotpiePlastic
+        weight: 1
+      - path: InsertArrow
+        weight: 1
+      - path: Kicker
+        weight: 1
+      - path: KickerSaucer
+        weight: 1
+      - path: Kona
+        weight: 1
+      - path: Kona/dome4
+        weight: 1
+      - path: LiftRamp(plastic)
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line035
+        weight: 1
+      - path: Line067
+        weight: 1
+      - path: Line069
+        weight: 1
+      - path: Line075
+        weight: 1
+      - path: Line080
+        weight: 1
+      - path: Line081
+        weight: 1
+      - path: Line083
+        weight: 1
+      - path: Line084
+        weight: 1
+      - path: Line085
+        weight: 1
+      - path: Line086
+        weight: 1
+      - path: Line088
+        weight: 1
+      - path: Line108
+        weight: 1
+      - path: Line112
+        weight: 1
+      - path: Line113
+        weight: 1
+      - path: Line114
+        weight: 1
+      - path: Line116
+        weight: 1
+      - path: Line117
+        weight: 1
+      - path: Line118
+        weight: 1
+      - path: Line119
+        weight: 1
+      - path: Line120
+        weight: 1
+      - path: LockNut
+        weight: 1
+      - path: LockNut001
+        weight: 1
+      - path: LockNut003
+        weight: 1
+      - path: LockNut003/Cylinder020
+        weight: 1
+      - path: LockNut009_LP
+        weight: 1
+      - path: LockNut009_LP002
+        weight: 1
+      - path: LockNut009_LP003
+        weight: 1
+      - path: LockNut009_LP004
+        weight: 1
+      - path: LockNut009_LP005
+        weight: 1
+      - path: LockNut009_LP006
+        weight: 1
+      - path: LockNut009_LP007
+        weight: 1
+      - path: LockNut010
+        weight: 1
+      - path: LockNut011
+        weight: 1
+      - path: LockNut012
+        weight: 1
+      - path: LockNut013
+        weight: 1
+      - path: LockNut014
+        weight: 1
+      - path: LockNut015
+        weight: 1
+      - path: LockNut016
+        weight: 1
+      - path: Loft004
+        weight: 1
+      - path: Loft004/Loft004_MeshPart0
+        weight: 1
+      - path: Loft004/Loft004_MeshPart1
+        weight: 1
+      - path: Loft004/Loft004_MeshPart2
+        weight: 1
+      - path: Loft006
+        weight: 1
+      - path: Loft009
+        weight: 1
+      - path: LSlingPlastic
+        weight: 1
+      - path: MechArm001
+        weight: 1
+      - path: MetalWalls
+        weight: 1
+      - path: newPF001
+        weight: 1
+      - path: NewRampStart002
+        weight: 1
+      - path: Object016
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object019
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object021
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object024
+        weight: 1
+      - path: Object025
+        weight: 1
+      - path: PalmTreePlastic003
+        weight: 1
+      - path: Peg
+        weight: 1
+      - path: Peg002
+        weight: 1
+      - path: Peg003
+        weight: 1
+      - path: Peg004
+        weight: 1
+      - path: Peg005
+        weight: 1
+      - path: Peg006
+        weight: 1
+      - path: Peg007
+        weight: 1
+      - path: Peg008
+        weight: 1
+      - path: Peg009
+        weight: 1
+      - path: Peg010
+        weight: 1
+      - path: Peg011
+        weight: 1
+      - path: Peg012
+        weight: 1
+      - path: peg12
+        weight: 1
+      - path: Peg013
+        weight: 1
+      - path: Peg014
+        weight: 1
+      - path: Peg015
+        weight: 1
+      - path: Peg016
+        weight: 1
+      - path: Peg017
+        weight: 1
+      - path: Peg018
+        weight: 1
+      - path: Peg019
+        weight: 1
+      - path: Peg020
+        weight: 1
+      - path: Peg021
+        weight: 1
+      - path: Peg022
+        weight: 1
+      - path: Pinball002
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane002/Line004
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane004/LoveyPlastic
+        weight: 1
+      - path: Plane006
+        weight: 1
+      - path: Plane006/Line008
+        weight: 1
+      - path: Plane008
+        weight: 1
+      - path: Plane008/Line006
+        weight: 1
+      - path: Plane009
+        weight: 1
+      - path: Plane009/Line005
+        weight: 1
+      - path: Plane009/Line005/Halfpost2
+        weight: 1
+      - path: Plane009/RMPlasticCover
+        weight: 1
+      - path: Plane012
+        weight: 1
+      - path: Plane012/Line011
+        weight: 1
+      - path: Plane020
+        weight: 1
+      - path: Plane020/Line058
+        weight: 1
+      - path: Plane021
+        weight: 1
+      - path: Plane021/Line059
+        weight: 1
+      - path: Plane022
+        weight: 1
+      - path: Plane022/Line003
+        weight: 1
+      - path: Plane024
+        weight: 1
+      - path: Plane024/Line066
+        weight: 1
+      - path: Plane025
+        weight: 1
+      - path: Plane025/FlipperPlastic
+        weight: 1
+      - path: Plane026
+        weight: 1
+      - path: Plane026/FlipperPlastic001
+        weight: 1
+      - path: Plane029
+        weight: 1
+      - path: Plane030
+        weight: 1
+      - path: Plane033
+        weight: 1
+      - path: Plane037
+        weight: 1
+      - path: Plane037/Plane040
+        weight: 1
+      - path: PlasticCorner
+        weight: 1
+      - path: PlayField
+        weight: 1
+      - path: PlungerCover
+        weight: 1
+      - path: PlungerRamp3
+        weight: 1
+      - path: PostGUIDE
+        weight: 1
+      - path: PostMetalset
+        weight: 1
+      - path: PostVP
+        weight: 1
+      - path: PostVP001
+        weight: 1
+      - path: PostVP002
+        weight: 1
+      - path: PostVP003
+        weight: 1
+      - path: PostVP004
+        weight: 1
+      - path: PostVP005
+        weight: 1
+      - path: ProfessorDecal
+        weight: 1
+      - path: ProfessorDecal/ProfessorPlastic
+        weight: 1
+      - path: RampGate
+        weight: 1
+      - path: RedTarget
+        weight: 1
+      - path: RedTarget001
+        weight: 1
+      - path: RedTarget002
+        weight: 1
+      - path: RSlingPlastic
+        weight: 1
+      - path: RTPlasticCover
+        weight: 1
+      - path: Rubberwhite03
+        weight: 1
+      - path: Rubberwhite04
+        weight: 1
+      - path: rubberwhite22
+        weight: 1
+      - path: Screw_HP034
+        weight: 1
+      - path: Screw_HP035
+        weight: 1
+      - path: Screw_HP036
+        weight: 1
+      - path: Screw_HP037
+        weight: 1
+      - path: ScrewLP001
+        weight: 1
+      - path: ScrewLP003
+        weight: 1
+      - path: ScrewLP004
+        weight: 1
+      - path: ScrewLP005
+        weight: 1
+      - path: ScrewLP006
+        weight: 1
+      - path: ScrewLP007
+        weight: 1
+      - path: ScrewLP008
+        weight: 1
+      - path: ScrewLP009
+        weight: 1
+      - path: ScrewLP010
+        weight: 1
+      - path: ScrewLP011
+        weight: 1
+      - path: ScrewLP012
+        weight: 1
+      - path: ScrewLP013
+        weight: 1
+      - path: ScrewLP014
+        weight: 1
+      - path: ScrewLP015
+        weight: 1
+      - path: ScrewLP016
+        weight: 1
+      - path: ScrewLP017
+        weight: 1
+      - path: ScrewLP018
+        weight: 1
+      - path: ScrewLP019
+        weight: 1
+      - path: ScrewLP020
+        weight: 1
+      - path: ScrewLP021
+        weight: 1
+      - path: ScrewLP022
+        weight: 1
+      - path: ScrewLP023
+        weight: 1
+      - path: ScrewLP024
+        weight: 1
+      - path: ScrewLP025
+        weight: 1
+      - path: ScrewLP026
+        weight: 1
+      - path: ScrewLP027
+        weight: 1
+      - path: ScrewLP028
+        weight: 1
+      - path: ScrewLP029
+        weight: 1
+      - path: ScrewLP030
+        weight: 1
+      - path: ScrewLP031
+        weight: 1
+      - path: ScrewLP032
+        weight: 1
+      - path: ScrewLP033
+        weight: 1
+      - path: ScrewLP034
+        weight: 1
+      - path: ScrewLP035
+        weight: 1
+      - path: ScrewLP036
+        weight: 1
+      - path: ScrewLP037
+        weight: 1
+      - path: ScrewLP038
+        weight: 1
+      - path: ScrewShafts003
+        weight: 1
+      - path: Shooter
+        weight: 1
+      - path: ShooterHousing
+        weight: 1
+      - path: skinnytarget
+        weight: 1
+      - path: SlingRubbers
+        weight: 1
+      - path: Sphere046
+        weight: 1
+      - path: Switch_positioned
+        weight: 1
+      - path: Switch_positioned001
+        weight: 1
+      - path: Switch_positioned002
+        weight: 1
+      - path: SwitchWIRE001
+        weight: 1
+      - path: SwitchWIRE003
+        weight: 1
+      - path: TargetParts
+        weight: 1
+      - path: TargetParts/Box001
+        weight: 1
+      - path: TargetParts001
+        weight: 1
+      - path: TargetParts001/target
+        weight: 1
+      - path: TargetParts002
+        weight: 1
+      - path: TargetParts002/target001
+        weight: 1
+      - path: TargetParts003
+        weight: 1
+      - path: TargetParts003/target002
+        weight: 1
+      - path: TargetParts004
+        weight: 1
+      - path: TargetParts004/target003
+        weight: 1
+      - path: TargetParts005
+        weight: 1
+      - path: TargetParts005/target004
+        weight: 1
+      - path: TargetParts006
+        weight: 1
+      - path: TargetParts006/target005
+        weight: 1
+      - path: TargetParts007
+        weight: 1
+      - path: TargetParts007/target006
+        weight: 1
+      - path: TargetParts008
+        weight: 1
+      - path: TargetParts008/target007
+        weight: 1
+      - path: TargetParts009
+        weight: 1
+      - path: TargetParts009/target008
+        weight: 1
+      - path: TurnTable(JungleRun)
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002/Object
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002/ScrewShaft006
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/Object010
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreeDecal
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreeDecal001
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreePlastic001
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreePlastic002
+        weight: 1
+      - path: Washer
+        weight: 1
+      - path: Washer001
+        weight: 1
+      - path: Washer005
+        weight: 1
+      - path: Washer006
+        weight: 1
+      - path: Washer007
+        weight: 1
+      - path: Washer008
+        weight: 1
+      - path: Washer009
+        weight: 1
+      - path: Washer010
+        weight: 1
+      - path: Washer011
+        weight: 1
+      - path: Washer012
+        weight: 1
+      - path: Washer013
+        weight: 1
+      - path: Washer016
+        weight: 1
+      - path: WireForm_template003
+        weight: 1
+      - path: WireGuide
+        weight: 1
+      - path: Woodsiding
+        weight: 1
+      - path: woodwalls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TurnAble
+      takeName: Take 001
+      firstFrame: 491
+      lastFrame: 580
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Apron
+        weight: 1
+      - path: Apron 1
+        weight: 1
+      - path: Apron 1/Card1
+        weight: 1
+      - path: Apron 1/Card002
+        weight: 1
+      - path: Apron 1/Cylinder008
+        weight: 1
+      - path: BallEject
+        weight: 1
+      - path: BallStopper
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: bulb
+        weight: 1
+      - path: bulb001
+        weight: 1
+      - path: bulb002
+        weight: 1
+      - path: bulb003
+        weight: 1
+      - path: bulb004
+        weight: 1
+      - path: bulb005
+        weight: 1
+      - path: bulb006
+        weight: 1
+      - path: bulb007
+        weight: 1
+      - path: bulb008
+        weight: 1
+      - path: bulb009
+        weight: 1
+      - path: bulb010
+        weight: 1
+      - path: bulb011
+        weight: 1
+      - path: bulb012
+        weight: 1
+      - path: bulb013
+        weight: 1
+      - path: bulb014
+        weight: 1
+      - path: bulb015
+        weight: 1
+      - path: bulb016
+        weight: 1
+      - path: bulb017
+        weight: 1
+      - path: bulb018
+        weight: 1
+      - path: bulb019
+        weight: 1
+      - path: bulb020
+        weight: 1
+      - path: bulb021
+        weight: 1
+      - path: bulb022
+        weight: 1
+      - path: bulb023
+        weight: 1
+      - path: bulb024
+        weight: 1
+      - path: bulb025
+        weight: 1
+      - path: Bulbs
+        weight: 1
+      - path: bulbs001
+        weight: 1
+      - path: bulbsleft
+        weight: 1
+      - path: bumperassembly
+        weight: 1
+      - path: bumperassembly001
+        weight: 1
+      - path: bumperassembly002
+        weight: 1
+      - path: BumperCap_LP003
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews003
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews004
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews005
+        weight: 1
+      - path: BumperCap_LP004
+        weight: 1
+      - path: BumperCap_LP005
+        weight: 1
+      - path: ButterFlyDECAL
+        weight: 1
+      - path: ButterFlyDECAL/ButterFlyPlastic
+        weight: 1
+      - path: Cabinet
+        weight: 1
+      - path: Cabinet/BackBox
+        weight: 1
+      - path: Cabinet/CoinDoorFrame
+        weight: 1
+      - path: Cabinet/LockdownBar
+        weight: 1
+      - path: CabinetLeg001
+        weight: 1
+      - path: CabinetLeg001/Box024
+        weight: 1
+      - path: CabinetLeg003
+        weight: 1
+      - path: CabinetLeg003/Box026
+        weight: 1
+      - path: CabinetLeg004
+        weight: 1
+      - path: CabinetLeg004/Box027
+        weight: 1
+      - path: CabinetLeg005
+        weight: 1
+      - path: CabinetLeg005/Box028
+        weight: 1
+      - path: cabletie00
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: CoconutPlasticGuard
+        weight: 1
+      - path: CoinDoorLP
+        weight: 1
+      - path: Cylinder004
+        weight: 1
+      - path: Cylinder004/Plane011
+        weight: 1
+      - path: Cylinder004/Plane011/Line010
+        weight: 1
+      - path: Cylinder004/Plane031
+        weight: 1
+      - path: Cylinder004/Wiring002
+        weight: 1
+      - path: Cylinder004/Wiring003
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder012
+        weight: 1
+      - path: Cylinder015
+        weight: 1
+      - path: Cylinder016
+        weight: 1
+      - path: Cylinder017
+        weight: 1
+      - path: Cylinder018
+        weight: 1
+      - path: Cylinder021
+        weight: 1
+      - path: Cylinder022
+        weight: 1
+      - path: Cylinder024
+        weight: 1
+      - path: Cylinder026
+        weight: 1
+      - path: Cylinder027
+        weight: 1
+      - path: Cylinder027/Rubberwhite
+        weight: 1
+      - path: Cylinder028
+        weight: 1
+      - path: Cylinder028/Rubberwhite001
+        weight: 1
+      - path: Cylinder029
+        weight: 1
+      - path: Cylinder029/Rubberwhite002
+        weight: 1
+      - path: Cylinder030
+        weight: 1
+      - path: Cylinder031
+        weight: 1
+      - path: Cylinder032
+        weight: 1
+      - path: Cylinder033
+        weight: 1
+      - path: Cylinder034
+        weight: 1
+      - path: Cylinder035
+        weight: 1
+      - path: Flipper
+        weight: 1
+      - path: Flipper/FlipperRubber
+        weight: 1
+      - path: FlipperRubber001
+        weight: 1
+      - path: FlipperRubber001/Flipper001
+        weight: 1
+      - path: Guideline00
+        weight: 1
+      - path: Halfpost004
+        weight: 1
+      - path: Halfpost005
+        weight: 1
+      - path: halfpost5
+        weight: 1
+      - path: halfpost006
+        weight: 1
+      - path: Halfposts
+        weight: 1
+      - path: Hotpiedecal
+        weight: 1
+      - path: Hotpiedecal/HotpiePlastic
+        weight: 1
+      - path: InsertArrow
+        weight: 1
+      - path: Kicker
+        weight: 1
+      - path: KickerSaucer
+        weight: 1
+      - path: Kona
+        weight: 1
+      - path: Kona/dome4
+        weight: 1
+      - path: LiftRamp(plastic)
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line035
+        weight: 1
+      - path: Line067
+        weight: 1
+      - path: Line069
+        weight: 1
+      - path: Line075
+        weight: 1
+      - path: Line080
+        weight: 1
+      - path: Line081
+        weight: 1
+      - path: Line083
+        weight: 1
+      - path: Line084
+        weight: 1
+      - path: Line085
+        weight: 1
+      - path: Line086
+        weight: 1
+      - path: Line088
+        weight: 1
+      - path: Line108
+        weight: 1
+      - path: Line112
+        weight: 1
+      - path: Line113
+        weight: 1
+      - path: Line114
+        weight: 1
+      - path: Line116
+        weight: 1
+      - path: Line117
+        weight: 1
+      - path: Line118
+        weight: 1
+      - path: Line119
+        weight: 1
+      - path: Line120
+        weight: 1
+      - path: LockNut
+        weight: 1
+      - path: LockNut001
+        weight: 1
+      - path: LockNut003
+        weight: 1
+      - path: LockNut003/Cylinder020
+        weight: 1
+      - path: LockNut009_LP
+        weight: 1
+      - path: LockNut009_LP002
+        weight: 1
+      - path: LockNut009_LP003
+        weight: 1
+      - path: LockNut009_LP004
+        weight: 1
+      - path: LockNut009_LP005
+        weight: 1
+      - path: LockNut009_LP006
+        weight: 1
+      - path: LockNut009_LP007
+        weight: 1
+      - path: LockNut010
+        weight: 1
+      - path: LockNut011
+        weight: 1
+      - path: LockNut012
+        weight: 1
+      - path: LockNut013
+        weight: 1
+      - path: LockNut014
+        weight: 1
+      - path: LockNut015
+        weight: 1
+      - path: LockNut016
+        weight: 1
+      - path: Loft004
+        weight: 1
+      - path: Loft004/Loft004_MeshPart0
+        weight: 1
+      - path: Loft004/Loft004_MeshPart1
+        weight: 1
+      - path: Loft004/Loft004_MeshPart2
+        weight: 1
+      - path: Loft006
+        weight: 1
+      - path: Loft009
+        weight: 1
+      - path: LSlingPlastic
+        weight: 1
+      - path: MechArm001
+        weight: 1
+      - path: MetalWalls
+        weight: 1
+      - path: newPF001
+        weight: 1
+      - path: NewRampStart002
+        weight: 1
+      - path: Object016
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object019
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object021
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object024
+        weight: 1
+      - path: Object025
+        weight: 1
+      - path: PalmTreePlastic003
+        weight: 1
+      - path: Peg
+        weight: 1
+      - path: Peg002
+        weight: 1
+      - path: Peg003
+        weight: 1
+      - path: Peg004
+        weight: 1
+      - path: Peg005
+        weight: 1
+      - path: Peg006
+        weight: 1
+      - path: Peg007
+        weight: 1
+      - path: Peg008
+        weight: 1
+      - path: Peg009
+        weight: 1
+      - path: Peg010
+        weight: 1
+      - path: Peg011
+        weight: 1
+      - path: Peg012
+        weight: 1
+      - path: peg12
+        weight: 1
+      - path: Peg013
+        weight: 1
+      - path: Peg014
+        weight: 1
+      - path: Peg015
+        weight: 1
+      - path: Peg016
+        weight: 1
+      - path: Peg017
+        weight: 1
+      - path: Peg018
+        weight: 1
+      - path: Peg019
+        weight: 1
+      - path: Peg020
+        weight: 1
+      - path: Peg021
+        weight: 1
+      - path: Peg022
+        weight: 1
+      - path: Pinball002
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane002/Line004
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane004/LoveyPlastic
+        weight: 1
+      - path: Plane006
+        weight: 1
+      - path: Plane006/Line008
+        weight: 1
+      - path: Plane008
+        weight: 1
+      - path: Plane008/Line006
+        weight: 1
+      - path: Plane009
+        weight: 1
+      - path: Plane009/Line005
+        weight: 1
+      - path: Plane009/Line005/Halfpost2
+        weight: 1
+      - path: Plane009/RMPlasticCover
+        weight: 1
+      - path: Plane012
+        weight: 1
+      - path: Plane012/Line011
+        weight: 1
+      - path: Plane020
+        weight: 1
+      - path: Plane020/Line058
+        weight: 1
+      - path: Plane021
+        weight: 1
+      - path: Plane021/Line059
+        weight: 1
+      - path: Plane022
+        weight: 1
+      - path: Plane022/Line003
+        weight: 1
+      - path: Plane024
+        weight: 1
+      - path: Plane024/Line066
+        weight: 1
+      - path: Plane025
+        weight: 1
+      - path: Plane025/FlipperPlastic
+        weight: 1
+      - path: Plane026
+        weight: 1
+      - path: Plane026/FlipperPlastic001
+        weight: 1
+      - path: Plane029
+        weight: 1
+      - path: Plane030
+        weight: 1
+      - path: Plane033
+        weight: 1
+      - path: Plane037
+        weight: 1
+      - path: Plane037/Plane040
+        weight: 1
+      - path: PlasticCorner
+        weight: 1
+      - path: PlayField
+        weight: 1
+      - path: PlungerCover
+        weight: 1
+      - path: PlungerRamp3
+        weight: 1
+      - path: PostGUIDE
+        weight: 1
+      - path: PostMetalset
+        weight: 1
+      - path: PostVP
+        weight: 1
+      - path: PostVP001
+        weight: 1
+      - path: PostVP002
+        weight: 1
+      - path: PostVP003
+        weight: 1
+      - path: PostVP004
+        weight: 1
+      - path: PostVP005
+        weight: 1
+      - path: ProfessorDecal
+        weight: 1
+      - path: ProfessorDecal/ProfessorPlastic
+        weight: 1
+      - path: RampGate
+        weight: 1
+      - path: RedTarget
+        weight: 1
+      - path: RedTarget001
+        weight: 1
+      - path: RedTarget002
+        weight: 1
+      - path: RSlingPlastic
+        weight: 1
+      - path: RTPlasticCover
+        weight: 1
+      - path: Rubberwhite03
+        weight: 1
+      - path: Rubberwhite04
+        weight: 1
+      - path: rubberwhite22
+        weight: 1
+      - path: Screw_HP034
+        weight: 1
+      - path: Screw_HP035
+        weight: 1
+      - path: Screw_HP036
+        weight: 1
+      - path: Screw_HP037
+        weight: 1
+      - path: ScrewLP001
+        weight: 1
+      - path: ScrewLP003
+        weight: 1
+      - path: ScrewLP004
+        weight: 1
+      - path: ScrewLP005
+        weight: 1
+      - path: ScrewLP006
+        weight: 1
+      - path: ScrewLP007
+        weight: 1
+      - path: ScrewLP008
+        weight: 1
+      - path: ScrewLP009
+        weight: 1
+      - path: ScrewLP010
+        weight: 1
+      - path: ScrewLP011
+        weight: 1
+      - path: ScrewLP012
+        weight: 1
+      - path: ScrewLP013
+        weight: 1
+      - path: ScrewLP014
+        weight: 1
+      - path: ScrewLP015
+        weight: 1
+      - path: ScrewLP016
+        weight: 1
+      - path: ScrewLP017
+        weight: 1
+      - path: ScrewLP018
+        weight: 1
+      - path: ScrewLP019
+        weight: 1
+      - path: ScrewLP020
+        weight: 1
+      - path: ScrewLP021
+        weight: 1
+      - path: ScrewLP022
+        weight: 1
+      - path: ScrewLP023
+        weight: 1
+      - path: ScrewLP024
+        weight: 1
+      - path: ScrewLP025
+        weight: 1
+      - path: ScrewLP026
+        weight: 1
+      - path: ScrewLP027
+        weight: 1
+      - path: ScrewLP028
+        weight: 1
+      - path: ScrewLP029
+        weight: 1
+      - path: ScrewLP030
+        weight: 1
+      - path: ScrewLP031
+        weight: 1
+      - path: ScrewLP032
+        weight: 1
+      - path: ScrewLP033
+        weight: 1
+      - path: ScrewLP034
+        weight: 1
+      - path: ScrewLP035
+        weight: 1
+      - path: ScrewLP036
+        weight: 1
+      - path: ScrewLP037
+        weight: 1
+      - path: ScrewLP038
+        weight: 1
+      - path: ScrewShafts003
+        weight: 1
+      - path: Shooter
+        weight: 1
+      - path: ShooterHousing
+        weight: 1
+      - path: skinnytarget
+        weight: 1
+      - path: SlingRubbers
+        weight: 1
+      - path: Sphere046
+        weight: 1
+      - path: Switch_positioned
+        weight: 1
+      - path: Switch_positioned001
+        weight: 1
+      - path: Switch_positioned002
+        weight: 1
+      - path: SwitchWIRE001
+        weight: 1
+      - path: SwitchWIRE003
+        weight: 1
+      - path: TargetParts
+        weight: 1
+      - path: TargetParts/Box001
+        weight: 1
+      - path: TargetParts001
+        weight: 1
+      - path: TargetParts001/target
+        weight: 1
+      - path: TargetParts002
+        weight: 1
+      - path: TargetParts002/target001
+        weight: 1
+      - path: TargetParts003
+        weight: 1
+      - path: TargetParts003/target002
+        weight: 1
+      - path: TargetParts004
+        weight: 1
+      - path: TargetParts004/target003
+        weight: 1
+      - path: TargetParts005
+        weight: 1
+      - path: TargetParts005/target004
+        weight: 1
+      - path: TargetParts006
+        weight: 1
+      - path: TargetParts006/target005
+        weight: 1
+      - path: TargetParts007
+        weight: 1
+      - path: TargetParts007/target006
+        weight: 1
+      - path: TargetParts008
+        weight: 1
+      - path: TargetParts008/target007
+        weight: 1
+      - path: TargetParts009
+        weight: 1
+      - path: TargetParts009/target008
+        weight: 1
+      - path: TurnTable(JungleRun)
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002/Object
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002/ScrewShaft006
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/Object010
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreeDecal
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreeDecal001
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreePlastic001
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreePlastic002
+        weight: 1
+      - path: Washer
+        weight: 1
+      - path: Washer001
+        weight: 1
+      - path: Washer005
+        weight: 1
+      - path: Washer006
+        weight: 1
+      - path: Washer007
+        weight: 1
+      - path: Washer008
+        weight: 1
+      - path: Washer009
+        weight: 1
+      - path: Washer010
+        weight: 1
+      - path: Washer011
+        weight: 1
+      - path: Washer012
+        weight: 1
+      - path: Washer013
+        weight: 1
+      - path: Washer016
+        weight: 1
+      - path: WireForm_template003
+        weight: 1
+      - path: WireGuide
+        weight: 1
+      - path: Woodsiding
+        weight: 1
+      - path: woodwalls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RoundPaddleUpStay
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Apron
+        weight: 1
+      - path: Apron 1
+        weight: 1
+      - path: Apron 1/Card1
+        weight: 1
+      - path: Apron 1/Card002
+        weight: 1
+      - path: Apron 1/Cylinder008
+        weight: 1
+      - path: BallEject
+        weight: 1
+      - path: BallStopper
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: bulb
+        weight: 1
+      - path: bulb001
+        weight: 1
+      - path: bulb002
+        weight: 1
+      - path: bulb003
+        weight: 1
+      - path: bulb004
+        weight: 1
+      - path: bulb005
+        weight: 1
+      - path: bulb006
+        weight: 1
+      - path: bulb007
+        weight: 1
+      - path: bulb008
+        weight: 1
+      - path: bulb009
+        weight: 1
+      - path: bulb010
+        weight: 1
+      - path: bulb011
+        weight: 1
+      - path: bulb012
+        weight: 1
+      - path: bulb013
+        weight: 1
+      - path: bulb014
+        weight: 1
+      - path: bulb015
+        weight: 1
+      - path: bulb016
+        weight: 1
+      - path: bulb017
+        weight: 1
+      - path: bulb018
+        weight: 1
+      - path: bulb019
+        weight: 1
+      - path: bulb020
+        weight: 1
+      - path: bulb021
+        weight: 1
+      - path: bulb022
+        weight: 1
+      - path: bulb023
+        weight: 1
+      - path: bulb024
+        weight: 1
+      - path: bulb025
+        weight: 1
+      - path: Bulbs
+        weight: 1
+      - path: bulbs001
+        weight: 1
+      - path: bulbsleft
+        weight: 1
+      - path: bumperassembly
+        weight: 1
+      - path: bumperassembly001
+        weight: 1
+      - path: bumperassembly002
+        weight: 1
+      - path: BumperCap_LP003
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews003
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews004
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews005
+        weight: 1
+      - path: BumperCap_LP004
+        weight: 1
+      - path: BumperCap_LP005
+        weight: 1
+      - path: ButterFlyDECAL
+        weight: 1
+      - path: ButterFlyDECAL/ButterFlyPlastic
+        weight: 1
+      - path: Cabinet
+        weight: 1
+      - path: Cabinet/BackBox
+        weight: 1
+      - path: Cabinet/CoinDoorFrame
+        weight: 1
+      - path: Cabinet/LockdownBar
+        weight: 1
+      - path: CabinetLeg001
+        weight: 1
+      - path: CabinetLeg001/Box024
+        weight: 1
+      - path: CabinetLeg003
+        weight: 1
+      - path: CabinetLeg003/Box026
+        weight: 1
+      - path: CabinetLeg004
+        weight: 1
+      - path: CabinetLeg004/Box027
+        weight: 1
+      - path: CabinetLeg005
+        weight: 1
+      - path: CabinetLeg005/Box028
+        weight: 1
+      - path: cabletie00
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: CoconutPlasticGuard
+        weight: 1
+      - path: CoinDoorLP
+        weight: 1
+      - path: Cylinder004
+        weight: 1
+      - path: Cylinder004/Plane011
+        weight: 1
+      - path: Cylinder004/Plane011/Line010
+        weight: 1
+      - path: Cylinder004/Plane031
+        weight: 1
+      - path: Cylinder004/Wiring002
+        weight: 1
+      - path: Cylinder004/Wiring003
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder012
+        weight: 1
+      - path: Cylinder015
+        weight: 1
+      - path: Cylinder016
+        weight: 1
+      - path: Cylinder017
+        weight: 1
+      - path: Cylinder018
+        weight: 1
+      - path: Cylinder021
+        weight: 1
+      - path: Cylinder022
+        weight: 1
+      - path: Cylinder024
+        weight: 1
+      - path: Cylinder026
+        weight: 1
+      - path: Cylinder027
+        weight: 1
+      - path: Cylinder027/Rubberwhite
+        weight: 1
+      - path: Cylinder028
+        weight: 1
+      - path: Cylinder028/Rubberwhite001
+        weight: 1
+      - path: Cylinder029
+        weight: 1
+      - path: Cylinder029/Rubberwhite002
+        weight: 1
+      - path: Cylinder030
+        weight: 1
+      - path: Cylinder031
+        weight: 1
+      - path: Cylinder032
+        weight: 1
+      - path: Cylinder033
+        weight: 1
+      - path: Cylinder034
+        weight: 1
+      - path: Cylinder035
+        weight: 1
+      - path: Flipper
+        weight: 1
+      - path: Flipper/FlipperRubber
+        weight: 1
+      - path: FlipperRubber001
+        weight: 1
+      - path: FlipperRubber001/Flipper001
+        weight: 1
+      - path: Guideline00
+        weight: 1
+      - path: Halfpost004
+        weight: 1
+      - path: Halfpost005
+        weight: 1
+      - path: halfpost5
+        weight: 1
+      - path: halfpost006
+        weight: 1
+      - path: Halfposts
+        weight: 1
+      - path: Hotpiedecal
+        weight: 1
+      - path: Hotpiedecal/HotpiePlastic
+        weight: 1
+      - path: InsertArrow
+        weight: 1
+      - path: Kicker
+        weight: 1
+      - path: KickerSaucer
+        weight: 1
+      - path: Kona
+        weight: 1
+      - path: Kona/dome4
+        weight: 1
+      - path: LiftRamp(plastic)
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line035
+        weight: 1
+      - path: Line067
+        weight: 1
+      - path: Line069
+        weight: 1
+      - path: Line075
+        weight: 1
+      - path: Line080
+        weight: 1
+      - path: Line081
+        weight: 1
+      - path: Line083
+        weight: 1
+      - path: Line084
+        weight: 1
+      - path: Line085
+        weight: 1
+      - path: Line086
+        weight: 1
+      - path: Line088
+        weight: 1
+      - path: Line108
+        weight: 1
+      - path: Line112
+        weight: 1
+      - path: Line113
+        weight: 1
+      - path: Line114
+        weight: 1
+      - path: Line116
+        weight: 1
+      - path: Line117
+        weight: 1
+      - path: Line118
+        weight: 1
+      - path: Line119
+        weight: 1
+      - path: Line120
+        weight: 1
+      - path: LockNut
+        weight: 1
+      - path: LockNut001
+        weight: 1
+      - path: LockNut003
+        weight: 1
+      - path: LockNut003/Cylinder020
+        weight: 1
+      - path: LockNut009_LP
+        weight: 1
+      - path: LockNut009_LP002
+        weight: 1
+      - path: LockNut009_LP003
+        weight: 1
+      - path: LockNut009_LP004
+        weight: 1
+      - path: LockNut009_LP005
+        weight: 1
+      - path: LockNut009_LP006
+        weight: 1
+      - path: LockNut009_LP007
+        weight: 1
+      - path: LockNut010
+        weight: 1
+      - path: LockNut011
+        weight: 1
+      - path: LockNut012
+        weight: 1
+      - path: LockNut013
+        weight: 1
+      - path: LockNut014
+        weight: 1
+      - path: LockNut015
+        weight: 1
+      - path: LockNut016
+        weight: 1
+      - path: Loft004
+        weight: 1
+      - path: Loft004/Loft004_MeshPart0
+        weight: 1
+      - path: Loft004/Loft004_MeshPart1
+        weight: 1
+      - path: Loft004/Loft004_MeshPart2
+        weight: 1
+      - path: Loft006
+        weight: 1
+      - path: Loft009
+        weight: 1
+      - path: LSlingPlastic
+        weight: 1
+      - path: MechArm001
+        weight: 1
+      - path: MetalWalls
+        weight: 1
+      - path: newPF001
+        weight: 1
+      - path: NewRampStart002
+        weight: 1
+      - path: Object016
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object019
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object021
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object024
+        weight: 1
+      - path: Object025
+        weight: 1
+      - path: PalmTreePlastic003
+        weight: 1
+      - path: Peg
+        weight: 1
+      - path: Peg002
+        weight: 1
+      - path: Peg003
+        weight: 1
+      - path: Peg004
+        weight: 1
+      - path: Peg005
+        weight: 1
+      - path: Peg006
+        weight: 1
+      - path: Peg007
+        weight: 1
+      - path: Peg008
+        weight: 1
+      - path: Peg009
+        weight: 1
+      - path: Peg010
+        weight: 1
+      - path: Peg011
+        weight: 1
+      - path: Peg012
+        weight: 1
+      - path: peg12
+        weight: 1
+      - path: Peg013
+        weight: 1
+      - path: Peg014
+        weight: 1
+      - path: Peg015
+        weight: 1
+      - path: Peg016
+        weight: 1
+      - path: Peg017
+        weight: 1
+      - path: Peg018
+        weight: 1
+      - path: Peg019
+        weight: 1
+      - path: Peg020
+        weight: 1
+      - path: Peg021
+        weight: 1
+      - path: Peg022
+        weight: 1
+      - path: Pinball002
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane002/Line004
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane004/LoveyPlastic
+        weight: 1
+      - path: Plane006
+        weight: 1
+      - path: Plane006/Line008
+        weight: 1
+      - path: Plane008
+        weight: 1
+      - path: Plane008/Line006
+        weight: 1
+      - path: Plane009
+        weight: 1
+      - path: Plane009/Line005
+        weight: 1
+      - path: Plane009/Line005/Halfpost2
+        weight: 1
+      - path: Plane009/RMPlasticCover
+        weight: 1
+      - path: Plane012
+        weight: 1
+      - path: Plane012/Line011
+        weight: 1
+      - path: Plane020
+        weight: 1
+      - path: Plane020/Line058
+        weight: 1
+      - path: Plane021
+        weight: 1
+      - path: Plane021/Line059
+        weight: 1
+      - path: Plane022
+        weight: 1
+      - path: Plane022/Line003
+        weight: 1
+      - path: Plane024
+        weight: 1
+      - path: Plane024/Line066
+        weight: 1
+      - path: Plane025
+        weight: 1
+      - path: Plane025/FlipperPlastic
+        weight: 1
+      - path: Plane026
+        weight: 1
+      - path: Plane026/FlipperPlastic001
+        weight: 1
+      - path: Plane029
+        weight: 1
+      - path: Plane030
+        weight: 1
+      - path: Plane033
+        weight: 1
+      - path: Plane037
+        weight: 1
+      - path: Plane037/Plane040
+        weight: 1
+      - path: PlasticCorner
+        weight: 1
+      - path: PlayField
+        weight: 1
+      - path: PlungerCover
+        weight: 1
+      - path: PlungerRamp3
+        weight: 1
+      - path: PostGUIDE
+        weight: 1
+      - path: PostMetalset
+        weight: 1
+      - path: PostVP
+        weight: 1
+      - path: PostVP001
+        weight: 1
+      - path: PostVP002
+        weight: 1
+      - path: PostVP003
+        weight: 1
+      - path: PostVP004
+        weight: 1
+      - path: PostVP005
+        weight: 1
+      - path: ProfessorDecal
+        weight: 1
+      - path: ProfessorDecal/ProfessorPlastic
+        weight: 1
+      - path: RampGate
+        weight: 1
+      - path: RedTarget
+        weight: 1
+      - path: RedTarget001
+        weight: 1
+      - path: RedTarget002
+        weight: 1
+      - path: RSlingPlastic
+        weight: 1
+      - path: RTPlasticCover
+        weight: 1
+      - path: Rubberwhite03
+        weight: 1
+      - path: Rubberwhite04
+        weight: 1
+      - path: rubberwhite22
+        weight: 1
+      - path: Screw_HP034
+        weight: 1
+      - path: Screw_HP035
+        weight: 1
+      - path: Screw_HP036
+        weight: 1
+      - path: Screw_HP037
+        weight: 1
+      - path: ScrewLP001
+        weight: 1
+      - path: ScrewLP003
+        weight: 1
+      - path: ScrewLP004
+        weight: 1
+      - path: ScrewLP005
+        weight: 1
+      - path: ScrewLP006
+        weight: 1
+      - path: ScrewLP007
+        weight: 1
+      - path: ScrewLP008
+        weight: 1
+      - path: ScrewLP009
+        weight: 1
+      - path: ScrewLP010
+        weight: 1
+      - path: ScrewLP011
+        weight: 1
+      - path: ScrewLP012
+        weight: 1
+      - path: ScrewLP013
+        weight: 1
+      - path: ScrewLP014
+        weight: 1
+      - path: ScrewLP015
+        weight: 1
+      - path: ScrewLP016
+        weight: 1
+      - path: ScrewLP017
+        weight: 1
+      - path: ScrewLP018
+        weight: 1
+      - path: ScrewLP019
+        weight: 1
+      - path: ScrewLP020
+        weight: 1
+      - path: ScrewLP021
+        weight: 1
+      - path: ScrewLP022
+        weight: 1
+      - path: ScrewLP023
+        weight: 1
+      - path: ScrewLP024
+        weight: 1
+      - path: ScrewLP025
+        weight: 1
+      - path: ScrewLP026
+        weight: 1
+      - path: ScrewLP027
+        weight: 1
+      - path: ScrewLP028
+        weight: 1
+      - path: ScrewLP029
+        weight: 1
+      - path: ScrewLP030
+        weight: 1
+      - path: ScrewLP031
+        weight: 1
+      - path: ScrewLP032
+        weight: 1
+      - path: ScrewLP033
+        weight: 1
+      - path: ScrewLP034
+        weight: 1
+      - path: ScrewLP035
+        weight: 1
+      - path: ScrewLP036
+        weight: 1
+      - path: ScrewLP037
+        weight: 1
+      - path: ScrewLP038
+        weight: 1
+      - path: ScrewShafts003
+        weight: 1
+      - path: Shooter
+        weight: 1
+      - path: ShooterHousing
+        weight: 1
+      - path: skinnytarget
+        weight: 1
+      - path: SlingRubbers
+        weight: 1
+      - path: Sphere046
+        weight: 1
+      - path: Switch_positioned
+        weight: 1
+      - path: Switch_positioned001
+        weight: 1
+      - path: Switch_positioned002
+        weight: 1
+      - path: SwitchWIRE001
+        weight: 1
+      - path: SwitchWIRE003
+        weight: 1
+      - path: TargetParts
+        weight: 1
+      - path: TargetParts/Box001
+        weight: 1
+      - path: TargetParts001
+        weight: 1
+      - path: TargetParts001/target
+        weight: 1
+      - path: TargetParts002
+        weight: 1
+      - path: TargetParts002/target001
+        weight: 1
+      - path: TargetParts003
+        weight: 1
+      - path: TargetParts003/target002
+        weight: 1
+      - path: TargetParts004
+        weight: 1
+      - path: TargetParts004/target003
+        weight: 1
+      - path: TargetParts005
+        weight: 1
+      - path: TargetParts005/target004
+        weight: 1
+      - path: TargetParts006
+        weight: 1
+      - path: TargetParts006/target005
+        weight: 1
+      - path: TargetParts007
+        weight: 1
+      - path: TargetParts007/target006
+        weight: 1
+      - path: TargetParts008
+        weight: 1
+      - path: TargetParts008/target007
+        weight: 1
+      - path: TargetParts009
+        weight: 1
+      - path: TargetParts009/target008
+        weight: 1
+      - path: TurnTable(JungleRun)
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002/Object
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002/ScrewShaft006
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/Object010
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreeDecal
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreeDecal001
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreePlastic001
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreePlastic002
+        weight: 1
+      - path: Washer
+        weight: 1
+      - path: Washer001
+        weight: 1
+      - path: Washer005
+        weight: 1
+      - path: Washer006
+        weight: 1
+      - path: Washer007
+        weight: 1
+      - path: Washer008
+        weight: 1
+      - path: Washer009
+        weight: 1
+      - path: Washer010
+        weight: 1
+      - path: Washer011
+        weight: 1
+      - path: Washer012
+        weight: 1
+      - path: Washer013
+        weight: 1
+      - path: Washer016
+        weight: 1
+      - path: WireForm_template003
+        weight: 1
+      - path: WireGuide
+        weight: 1
+      - path: Woodsiding
+        weight: 1
+      - path: woodwalls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ShootPadLeft
+      takeName: Take 001
+      firstFrame: 346
+      lastFrame: 357
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Apron
+        weight: 1
+      - path: Apron 1
+        weight: 1
+      - path: Apron 1/Card1
+        weight: 1
+      - path: Apron 1/Card002
+        weight: 1
+      - path: Apron 1/Cylinder008
+        weight: 1
+      - path: BallEject
+        weight: 1
+      - path: BallStopper
+        weight: 1
+      - path: Box008
+        weight: 1
+      - path: Box018
+        weight: 1
+      - path: Box021
+        weight: 1
+      - path: Box022
+        weight: 1
+      - path: bulb
+        weight: 1
+      - path: bulb001
+        weight: 1
+      - path: bulb002
+        weight: 1
+      - path: bulb003
+        weight: 1
+      - path: bulb004
+        weight: 1
+      - path: bulb005
+        weight: 1
+      - path: bulb006
+        weight: 1
+      - path: bulb007
+        weight: 1
+      - path: bulb008
+        weight: 1
+      - path: bulb009
+        weight: 1
+      - path: bulb010
+        weight: 1
+      - path: bulb011
+        weight: 1
+      - path: bulb012
+        weight: 1
+      - path: bulb013
+        weight: 1
+      - path: bulb014
+        weight: 1
+      - path: bulb015
+        weight: 1
+      - path: bulb016
+        weight: 1
+      - path: bulb017
+        weight: 1
+      - path: bulb018
+        weight: 1
+      - path: bulb019
+        weight: 1
+      - path: bulb020
+        weight: 1
+      - path: bulb021
+        weight: 1
+      - path: bulb022
+        weight: 1
+      - path: bulb023
+        weight: 1
+      - path: bulb024
+        weight: 1
+      - path: bulb025
+        weight: 1
+      - path: Bulbs
+        weight: 1
+      - path: bulbs001
+        weight: 1
+      - path: bulbsleft
+        weight: 1
+      - path: bumperassembly
+        weight: 1
+      - path: bumperassembly001
+        weight: 1
+      - path: bumperassembly002
+        weight: 1
+      - path: BumperCap_LP003
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews003
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews004
+        weight: 1
+      - path: BumperCap_LP003/BumperCapScrews005
+        weight: 1
+      - path: BumperCap_LP004
+        weight: 1
+      - path: BumperCap_LP005
+        weight: 1
+      - path: ButterFlyDECAL
+        weight: 1
+      - path: ButterFlyDECAL/ButterFlyPlastic
+        weight: 1
+      - path: Cabinet
+        weight: 1
+      - path: Cabinet/BackBox
+        weight: 1
+      - path: Cabinet/CoinDoorFrame
+        weight: 1
+      - path: Cabinet/LockdownBar
+        weight: 1
+      - path: CabinetLeg001
+        weight: 1
+      - path: CabinetLeg001/Box024
+        weight: 1
+      - path: CabinetLeg003
+        weight: 1
+      - path: CabinetLeg003/Box026
+        weight: 1
+      - path: CabinetLeg004
+        weight: 1
+      - path: CabinetLeg004/Box027
+        weight: 1
+      - path: CabinetLeg005
+        weight: 1
+      - path: CabinetLeg005/Box028
+        weight: 1
+      - path: cabletie00
+        weight: 1
+      - path: Circle001
+        weight: 1
+      - path: CoconutPlasticGuard
+        weight: 1
+      - path: CoinDoorLP
+        weight: 1
+      - path: Cylinder004
+        weight: 1
+      - path: Cylinder004/Plane011
+        weight: 1
+      - path: Cylinder004/Plane011/Line010
+        weight: 1
+      - path: Cylinder004/Plane031
+        weight: 1
+      - path: Cylinder004/Wiring002
+        weight: 1
+      - path: Cylinder004/Wiring003
+        weight: 1
+      - path: Cylinder011
+        weight: 1
+      - path: Cylinder012
+        weight: 1
+      - path: Cylinder015
+        weight: 1
+      - path: Cylinder016
+        weight: 1
+      - path: Cylinder017
+        weight: 1
+      - path: Cylinder018
+        weight: 1
+      - path: Cylinder021
+        weight: 1
+      - path: Cylinder022
+        weight: 1
+      - path: Cylinder024
+        weight: 1
+      - path: Cylinder026
+        weight: 1
+      - path: Cylinder027
+        weight: 1
+      - path: Cylinder027/Rubberwhite
+        weight: 1
+      - path: Cylinder028
+        weight: 1
+      - path: Cylinder028/Rubberwhite001
+        weight: 1
+      - path: Cylinder029
+        weight: 1
+      - path: Cylinder029/Rubberwhite002
+        weight: 1
+      - path: Cylinder030
+        weight: 1
+      - path: Cylinder031
+        weight: 1
+      - path: Cylinder032
+        weight: 1
+      - path: Cylinder033
+        weight: 1
+      - path: Cylinder034
+        weight: 1
+      - path: Cylinder035
+        weight: 1
+      - path: Flipper
+        weight: 1
+      - path: Flipper/FlipperRubber
+        weight: 1
+      - path: FlipperRubber001
+        weight: 1
+      - path: FlipperRubber001/Flipper001
+        weight: 1
+      - path: Guideline00
+        weight: 1
+      - path: Halfpost004
+        weight: 1
+      - path: Halfpost005
+        weight: 1
+      - path: halfpost5
+        weight: 1
+      - path: halfpost006
+        weight: 1
+      - path: Halfposts
+        weight: 1
+      - path: Hotpiedecal
+        weight: 1
+      - path: Hotpiedecal/HotpiePlastic
+        weight: 1
+      - path: InsertArrow
+        weight: 1
+      - path: Kicker
+        weight: 1
+      - path: KickerSaucer
+        weight: 1
+      - path: Kona
+        weight: 1
+      - path: Kona/dome4
+        weight: 1
+      - path: LiftRamp(plastic)
+        weight: 1
+      - path: Line012
+        weight: 1
+      - path: Line035
+        weight: 1
+      - path: Line067
+        weight: 1
+      - path: Line069
+        weight: 1
+      - path: Line075
+        weight: 1
+      - path: Line080
+        weight: 1
+      - path: Line081
+        weight: 1
+      - path: Line083
+        weight: 1
+      - path: Line084
+        weight: 1
+      - path: Line085
+        weight: 1
+      - path: Line086
+        weight: 1
+      - path: Line088
+        weight: 1
+      - path: Line108
+        weight: 1
+      - path: Line112
+        weight: 1
+      - path: Line113
+        weight: 1
+      - path: Line114
+        weight: 1
+      - path: Line116
+        weight: 1
+      - path: Line117
+        weight: 1
+      - path: Line118
+        weight: 1
+      - path: Line119
+        weight: 1
+      - path: Line120
+        weight: 1
+      - path: LockNut
+        weight: 1
+      - path: LockNut001
+        weight: 1
+      - path: LockNut003
+        weight: 1
+      - path: LockNut003/Cylinder020
+        weight: 1
+      - path: LockNut009_LP
+        weight: 1
+      - path: LockNut009_LP002
+        weight: 1
+      - path: LockNut009_LP003
+        weight: 1
+      - path: LockNut009_LP004
+        weight: 1
+      - path: LockNut009_LP005
+        weight: 1
+      - path: LockNut009_LP006
+        weight: 1
+      - path: LockNut009_LP007
+        weight: 1
+      - path: LockNut010
+        weight: 1
+      - path: LockNut011
+        weight: 1
+      - path: LockNut012
+        weight: 1
+      - path: LockNut013
+        weight: 1
+      - path: LockNut014
+        weight: 1
+      - path: LockNut015
+        weight: 1
+      - path: LockNut016
+        weight: 1
+      - path: Loft004
+        weight: 1
+      - path: Loft004/Loft004_MeshPart0
+        weight: 1
+      - path: Loft004/Loft004_MeshPart1
+        weight: 1
+      - path: Loft004/Loft004_MeshPart2
+        weight: 1
+      - path: Loft006
+        weight: 1
+      - path: Loft009
+        weight: 1
+      - path: LSlingPlastic
+        weight: 1
+      - path: MechArm001
+        weight: 1
+      - path: MetalWalls
+        weight: 1
+      - path: newPF001
+        weight: 1
+      - path: NewRampStart002
+        weight: 1
+      - path: Object016
+        weight: 1
+      - path: Object018
+        weight: 1
+      - path: Object019
+        weight: 1
+      - path: Object020
+        weight: 1
+      - path: Object021
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: Object023
+        weight: 1
+      - path: Object024
+        weight: 1
+      - path: Object025
+        weight: 1
+      - path: PalmTreePlastic003
+        weight: 1
+      - path: Peg
+        weight: 1
+      - path: Peg002
+        weight: 1
+      - path: Peg003
+        weight: 1
+      - path: Peg004
+        weight: 1
+      - path: Peg005
+        weight: 1
+      - path: Peg006
+        weight: 1
+      - path: Peg007
+        weight: 1
+      - path: Peg008
+        weight: 1
+      - path: Peg009
+        weight: 1
+      - path: Peg010
+        weight: 1
+      - path: Peg011
+        weight: 1
+      - path: Peg012
+        weight: 1
+      - path: peg12
+        weight: 1
+      - path: Peg013
+        weight: 1
+      - path: Peg014
+        weight: 1
+      - path: Peg015
+        weight: 1
+      - path: Peg016
+        weight: 1
+      - path: Peg017
+        weight: 1
+      - path: Peg018
+        weight: 1
+      - path: Peg019
+        weight: 1
+      - path: Peg020
+        weight: 1
+      - path: Peg021
+        weight: 1
+      - path: Peg022
+        weight: 1
+      - path: Pinball002
+        weight: 1
+      - path: Plane002
+        weight: 1
+      - path: Plane002/Line004
+        weight: 1
+      - path: Plane004
+        weight: 1
+      - path: Plane004/LoveyPlastic
+        weight: 1
+      - path: Plane006
+        weight: 1
+      - path: Plane006/Line008
+        weight: 1
+      - path: Plane008
+        weight: 1
+      - path: Plane008/Line006
+        weight: 1
+      - path: Plane009
+        weight: 1
+      - path: Plane009/Line005
+        weight: 1
+      - path: Plane009/Line005/Halfpost2
+        weight: 1
+      - path: Plane009/RMPlasticCover
+        weight: 1
+      - path: Plane012
+        weight: 1
+      - path: Plane012/Line011
+        weight: 1
+      - path: Plane020
+        weight: 1
+      - path: Plane020/Line058
+        weight: 1
+      - path: Plane021
+        weight: 1
+      - path: Plane021/Line059
+        weight: 1
+      - path: Plane022
+        weight: 1
+      - path: Plane022/Line003
+        weight: 1
+      - path: Plane024
+        weight: 1
+      - path: Plane024/Line066
+        weight: 1
+      - path: Plane025
+        weight: 1
+      - path: Plane025/FlipperPlastic
+        weight: 1
+      - path: Plane026
+        weight: 1
+      - path: Plane026/FlipperPlastic001
+        weight: 1
+      - path: Plane029
+        weight: 1
+      - path: Plane030
+        weight: 1
+      - path: Plane033
+        weight: 1
+      - path: Plane037
+        weight: 1
+      - path: Plane037/Plane040
+        weight: 1
+      - path: PlasticCorner
+        weight: 1
+      - path: PlayField
+        weight: 1
+      - path: PlungerCover
+        weight: 1
+      - path: PlungerRamp3
+        weight: 1
+      - path: PostGUIDE
+        weight: 1
+      - path: PostMetalset
+        weight: 1
+      - path: PostVP
+        weight: 1
+      - path: PostVP001
+        weight: 1
+      - path: PostVP002
+        weight: 1
+      - path: PostVP003
+        weight: 1
+      - path: PostVP004
+        weight: 1
+      - path: PostVP005
+        weight: 1
+      - path: ProfessorDecal
+        weight: 1
+      - path: ProfessorDecal/ProfessorPlastic
+        weight: 1
+      - path: RampGate
+        weight: 1
+      - path: RedTarget
+        weight: 1
+      - path: RedTarget001
+        weight: 1
+      - path: RedTarget002
+        weight: 1
+      - path: RSlingPlastic
+        weight: 1
+      - path: RTPlasticCover
+        weight: 1
+      - path: Rubberwhite03
+        weight: 1
+      - path: Rubberwhite04
+        weight: 1
+      - path: rubberwhite22
+        weight: 1
+      - path: Screw_HP034
+        weight: 1
+      - path: Screw_HP035
+        weight: 1
+      - path: Screw_HP036
+        weight: 1
+      - path: Screw_HP037
+        weight: 1
+      - path: ScrewLP001
+        weight: 1
+      - path: ScrewLP003
+        weight: 1
+      - path: ScrewLP004
+        weight: 1
+      - path: ScrewLP005
+        weight: 1
+      - path: ScrewLP006
+        weight: 1
+      - path: ScrewLP007
+        weight: 1
+      - path: ScrewLP008
+        weight: 1
+      - path: ScrewLP009
+        weight: 1
+      - path: ScrewLP010
+        weight: 1
+      - path: ScrewLP011
+        weight: 1
+      - path: ScrewLP012
+        weight: 1
+      - path: ScrewLP013
+        weight: 1
+      - path: ScrewLP014
+        weight: 1
+      - path: ScrewLP015
+        weight: 1
+      - path: ScrewLP016
+        weight: 1
+      - path: ScrewLP017
+        weight: 1
+      - path: ScrewLP018
+        weight: 1
+      - path: ScrewLP019
+        weight: 1
+      - path: ScrewLP020
+        weight: 1
+      - path: ScrewLP021
+        weight: 1
+      - path: ScrewLP022
+        weight: 1
+      - path: ScrewLP023
+        weight: 1
+      - path: ScrewLP024
+        weight: 1
+      - path: ScrewLP025
+        weight: 1
+      - path: ScrewLP026
+        weight: 1
+      - path: ScrewLP027
+        weight: 1
+      - path: ScrewLP028
+        weight: 1
+      - path: ScrewLP029
+        weight: 1
+      - path: ScrewLP030
+        weight: 1
+      - path: ScrewLP031
+        weight: 1
+      - path: ScrewLP032
+        weight: 1
+      - path: ScrewLP033
+        weight: 1
+      - path: ScrewLP034
+        weight: 1
+      - path: ScrewLP035
+        weight: 1
+      - path: ScrewLP036
+        weight: 1
+      - path: ScrewLP037
+        weight: 1
+      - path: ScrewLP038
+        weight: 1
+      - path: ScrewShafts003
+        weight: 1
+      - path: Shooter
+        weight: 1
+      - path: ShooterHousing
+        weight: 1
+      - path: skinnytarget
+        weight: 1
+      - path: SlingRubbers
+        weight: 1
+      - path: Sphere046
+        weight: 1
+      - path: Switch_positioned
+        weight: 1
+      - path: Switch_positioned001
+        weight: 1
+      - path: Switch_positioned002
+        weight: 1
+      - path: SwitchWIRE001
+        weight: 1
+      - path: SwitchWIRE003
+        weight: 1
+      - path: TargetParts
+        weight: 1
+      - path: TargetParts/Box001
+        weight: 1
+      - path: TargetParts001
+        weight: 1
+      - path: TargetParts001/target
+        weight: 1
+      - path: TargetParts002
+        weight: 1
+      - path: TargetParts002/target001
+        weight: 1
+      - path: TargetParts003
+        weight: 1
+      - path: TargetParts003/target002
+        weight: 1
+      - path: TargetParts004
+        weight: 1
+      - path: TargetParts004/target003
+        weight: 1
+      - path: TargetParts005
+        weight: 1
+      - path: TargetParts005/target004
+        weight: 1
+      - path: TargetParts006
+        weight: 1
+      - path: TargetParts006/target005
+        weight: 1
+      - path: TargetParts007
+        weight: 1
+      - path: TargetParts007/target006
+        weight: 1
+      - path: TargetParts008
+        weight: 1
+      - path: TargetParts008/target007
+        weight: 1
+      - path: TargetParts009
+        weight: 1
+      - path: TargetParts009/target008
+        weight: 1
+      - path: TurnTable(JungleRun)
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002/Object
+        weight: 1
+      - path: TurnTable(JungleRun)/Cylinder002/ScrewShaft006
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/Object010
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreeDecal
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreeDecal001
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreePlastic001
+        weight: 1
+      - path: TurnTable(JungleRun)/TopDecals/PalmTreePlastic002
+        weight: 1
+      - path: Washer
+        weight: 1
+      - path: Washer001
+        weight: 1
+      - path: Washer005
+        weight: 1
+      - path: Washer006
+        weight: 1
+      - path: Washer007
+        weight: 1
+      - path: Washer008
+        weight: 1
+      - path: Washer009
+        weight: 1
+      - path: Washer010
+        weight: 1
+      - path: Washer011
+        weight: 1
+      - path: Washer012
+        weight: 1
+      - path: Washer013
+        weight: 1
+      - path: Washer016
+        weight: 1
+      - path: WireForm_template003
+        weight: 1
+      - path: WireGuide
+        weight: 1
+      - path: Woodsiding
+        weight: 1
+      - path: woodwalls
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

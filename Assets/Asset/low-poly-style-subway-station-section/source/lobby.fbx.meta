@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: fe800b6d17e8e924da0deefd152b88a2
+timeCreated: 1715500231
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bench
+    100002: bench structure
+    100004: Bin
+    100006: board
+    100008: Camera
+    100010: green light
+    100012: lamp light 1
+    100014: lamp light 2
+    100016: Lamp structure 1
+    100018: lamp wire 1
+    100020: lamp wire 2
+    100022: Light
+    100024: light structure 2
+    100026: Light.001
+    100028: Light.002
+    100030: //RootNode
+    100032: metallic wire holder 1
+    100034: metallic wire holder 2
+    100036: metallic wire holder 3
+    100038: metallic wire holder 4
+    100040: metallic wire holder 5
+    100042: metro traffic light
+    100044: Net 1
+    100046: net 2
+    100048: number destination
+    100050: Pipe holder 1
+    100052: Pipe holder 2
+    100054: Pipe holder 3
+    100056: pipe2
+    100058: Rail wire 1
+    100060: Rail wire 2
+    100062: Rails
+    100064: Rails structure
+    100066: Roof wire holder 1
+    100068: Roof wire holder 2
+    100070: Roof wire holder 3
+    100072: Roof wire holder 4
+    100074: Roof wire holder 5
+    100076: roof wires
+    100078: Structure
+    100080: tube light 2
+    100082: tube light1
+    100084: underground pipe1
+    100086: underground pipe2
+    100088: wall metal gas pipe
+    100090: Wall wire 1
+    100092: Wall wire 2
+    100094: Wall wire 3
+    100096: Wall wire 4
+    100098: Wall wire 5
+    100100: wall wires
+    400000: bench
+    400002: bench structure
+    400004: Bin
+    400006: board
+    400008: Camera
+    400010: green light
+    400012: lamp light 1
+    400014: lamp light 2
+    400016: Lamp structure 1
+    400018: lamp wire 1
+    400020: lamp wire 2
+    400022: Light
+    400024: light structure 2
+    400026: Light.001
+    400028: Light.002
+    400030: //RootNode
+    400032: metallic wire holder 1
+    400034: metallic wire holder 2
+    400036: metallic wire holder 3
+    400038: metallic wire holder 4
+    400040: metallic wire holder 5
+    400042: metro traffic light
+    400044: Net 1
+    400046: net 2
+    400048: number destination
+    400050: Pipe holder 1
+    400052: Pipe holder 2
+    400054: Pipe holder 3
+    400056: pipe2
+    400058: Rail wire 1
+    400060: Rail wire 2
+    400062: Rails
+    400064: Rails structure
+    400066: Roof wire holder 1
+    400068: Roof wire holder 2
+    400070: Roof wire holder 3
+    400072: Roof wire holder 4
+    400074: Roof wire holder 5
+    400076: roof wires
+    400078: Structure
+    400080: tube light 2
+    400082: tube light1
+    400084: underground pipe1
+    400086: underground pipe2
+    400088: wall metal gas pipe
+    400090: Wall wire 1
+    400092: Wall wire 2
+    400094: Wall wire 3
+    400096: Wall wire 4
+    400098: Wall wire 5
+    400100: wall wires
+    2300000: bench
+    2300002: bench structure
+    2300004: Bin
+    2300006: board
+    2300008: green light
+    2300010: lamp light 1
+    2300012: lamp light 2
+    2300014: Lamp structure 1
+    2300016: lamp wire 1
+    2300018: lamp wire 2
+    2300020: light structure 2
+    2300022: metallic wire holder 1
+    2300024: metallic wire holder 2
+    2300026: metallic wire holder 3
+    2300028: metallic wire holder 4
+    2300030: metallic wire holder 5
+    2300032: metro traffic light
+    2300034: Net 1
+    2300036: net 2
+    2300038: number destination
+    2300040: Pipe holder 1
+    2300042: Pipe holder 2
+    2300044: Pipe holder 3
+    2300046: pipe2
+    2300048: Rail wire 1
+    2300050: Rail wire 2
+    2300052: Rails
+    2300054: Rails structure
+    2300056: Roof wire holder 1
+    2300058: Roof wire holder 2
+    2300060: Roof wire holder 3
+    2300062: Roof wire holder 4
+    2300064: Roof wire holder 5
+    2300066: roof wires
+    2300068: Structure
+    2300070: tube light 2
+    2300072: tube light1
+    2300074: underground pipe1
+    2300076: underground pipe2
+    2300078: wall metal gas pipe
+    2300080: Wall wire 1
+    2300082: Wall wire 2
+    2300084: Wall wire 3
+    2300086: Wall wire 4
+    2300088: Wall wire 5
+    2300090: wall wires
+    3300000: bench
+    3300002: bench structure
+    3300004: Bin
+    3300006: board
+    3300008: green light
+    3300010: lamp light 1
+    3300012: lamp light 2
+    3300014: Lamp structure 1
+    3300016: lamp wire 1
+    3300018: lamp wire 2
+    3300020: light structure 2
+    3300022: metallic wire holder 1
+    3300024: metallic wire holder 2
+    3300026: metallic wire holder 3
+    3300028: metallic wire holder 4
+    3300030: metallic wire holder 5
+    3300032: metro traffic light
+    3300034: Net 1
+    3300036: net 2
+    3300038: number destination
+    3300040: Pipe holder 1
+    3300042: Pipe holder 2
+    3300044: Pipe holder 3
+    3300046: pipe2
+    3300048: Rail wire 1
+    3300050: Rail wire 2
+    3300052: Rails
+    3300054: Rails structure
+    3300056: Roof wire holder 1
+    3300058: Roof wire holder 2
+    3300060: Roof wire holder 3
+    3300062: Roof wire holder 4
+    3300064: Roof wire holder 5
+    3300066: roof wires
+    3300068: Structure
+    3300070: tube light 2
+    3300072: tube light1
+    3300074: underground pipe1
+    3300076: underground pipe2
+    3300078: wall metal gas pipe
+    3300080: Wall wire 1
+    3300082: Wall wire 2
+    3300084: Wall wire 3
+    3300086: Wall wire 4
+    3300088: Wall wire 5
+    3300090: wall wires
+    4300000: Structure
+    4300002: Rails
+    4300004: Rail wire 1
+    4300006: Rail wire 2
+    4300008: pipe2
+    4300010: Wall wire 1
+    4300012: tube light1
+    4300014: Wall wire 2
+    4300016: Wall wire 3
+    4300018: Wall wire 4
+    4300020: Wall wire 5
+    4300022: metallic wire holder 1
+    4300024: metro traffic light
+    4300026: green light
+    4300028: metallic wire holder 2
+    4300030: metallic wire holder 3
+    4300032: Roof wire holder 1
+    4300034: Roof wire holder 2
+    4300036: Roof wire holder 3
+    4300038: Roof wire holder 4
+    4300040: Roof wire holder 5
+    4300042: roof wires
+    4300044: Rails structure
+    4300046: bench
+    4300048: bench structure
+    4300050: underground pipe1
+    4300052: number destination
+    4300054: Bin
+    4300056: board
+    4300058: underground pipe2
+    4300060: tube light 2
+    4300062: wall wires
+    4300064: lamp light 1
+    4300066: Net 1
+    4300068: Lamp structure 1
+    4300070: wall metal gas pipe
+    4300072: lamp wire 1
+    4300074: lamp wire 2
+    4300076: lamp light 2
+    4300078: net 2
+    4300080: light structure 2
+    4300082: metallic wire holder 4
+    4300084: metallic wire holder 5
+    4300086: Pipe holder 1
+    4300088: Pipe holder 2
+    4300090: Pipe holder 3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
